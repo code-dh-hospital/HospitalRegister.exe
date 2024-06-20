@@ -5,7 +5,15 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue. 📗: Nghiệp vụ, thao tác. 📕: Mô tả cơ sở dữ liệu) </div>
 
 #
-## 3.24.0619.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32406191-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32406191-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32406191-NasDHSolutions.json)
+## 3.24.0620.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32406200-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32406200-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32406200-NasDHSolutions.json)
+- ✨: Push lại - Thay đổi cách ghi nhận maxa trên form nhận bệnh, khám bệnh, hiệu chỉnh thông tin
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/400
+- ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
+- ☑: https://github.com/dh-hos/To_Trien_Khai/issues/57
+![](https://i.imgur.com/KGNPU2W.png)
+![](https://i.imgur.com/3bky44G.png)
+![](https://i.imgur.com/VVaB7q7.png)
+## [v.3.24.0619.1]()
 - ✨: Số khám bệnh trạm xã cho tự thiết kế
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/361
 ## [v.3.24.0619.0]()
