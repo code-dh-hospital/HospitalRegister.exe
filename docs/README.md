@@ -5,7 +5,16 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue. 📗: Nghiệp vụ, thao tác. 📕: Mô tả cơ sở dữ liệu) </div>
 
 #
-## 3.24.0621.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32406211-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32406211-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32406211-NasDHSolutions.json)
+## 3.24.0621.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32406212-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32406212-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32406212-NasDHSolutions.json)
+- ✨: Cảnh báo số lần đăng ký của bệnh nhân trong tháng theo tham số `reg.solankham`  
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/334
+<<<<<<< HEAD
+## [v.3.24.0621.0]()
+- ✨: Cảnh báo số lần đăng ký của bệnh nhân trong tháng theo tham số "reg.solankham"  
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/334
+
+=======
+## [v.3.24.0621.1]()
 - ✨: bổ sung combobox cho phép chọn, nhập thông tin nhóm máu - form nhận bệnh, form hiệu chỉnh thông tin
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/397
 - ☑: https://github.com/dh-hos/To_Ho_Tro/issues/20
@@ -17,6 +26,7 @@
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/397
 ![](https://i.imgur.com/dHPZzxI.png)
 ![](https://i.imgur.com/1PSay8u.png)
+>>>>>>> f51c149867def570e5afcea40bf54c5005aa5b2e
 ## [v.3.24.0620.0]()
 - ✨: Push lại - Thay đổi cách ghi nhận maxa trên form nhận bệnh, khám bệnh, hiệu chỉnh thông tin
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/400
