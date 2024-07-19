@@ -5,7 +5,10 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue. 📗: Nghiệp vụ, thao tác. 📕: Mô tả cơ sở dữ liệu) </div>
 
 #
-## 3.24.0718.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32407180-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32407180-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32407180-NasDHSolutions.json)
+## 3.24.0719.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32407190-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32407190-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32407190-NasDHSolutions.json)
+- 🐛: Thêm cảnh báo - khi nhập chuyển tuyến thiếu số chuyển , điều trị từ.. đến ...
+- ☑: https://github.com/dh-hos/dhg.hospitalregister/issues/74
+## [v.3.24.0718.0]()
 - ✨: Nhận bệnh trên Register bắt nhập thiếu Trạng thái Chuyển tuyến
 - ☑: https://github.com/dh-hos/dhg.hospitalregister/issues/74
 - 🐛: Fix lỗi sai thông tin chuyển tuyến khi đăng ký tái khám BANT
