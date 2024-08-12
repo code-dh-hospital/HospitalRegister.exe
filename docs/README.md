@@ -5,7 +5,21 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue. 📗: Nghiệp vụ, thao tác. 📕: Mô tả cơ sở dữ liệu) </div>
 
 #
-## 3.24.0811.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408110-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408110-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408110-NasDHSolutions.json)
+## 3.24.0812.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408120-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408120-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408120-NasDHSolutions.json)
+- ✨: Hỗ trợ check trạng thái ưu tiên lần khám gần nhất để xác định trạng thái ưu tiên cho bệnh nhân khi bắt số [Ordinal]
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/434
+![](https://i.imgur.com/BwpDxKu.png)
+<<<<<<< HEAD
+## [v.3.24.0812.1]()
+- ✨: Hỗ trợ check trạng thái ưu tiên lần khám gần nhất để xác định trạng thái ưu tiên cho bệnh nhân khi bắt số [Ordinal]
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/434
+![](https://i.imgur.com/BwpDxKu.png)
+## [v.3.24.0812.0]()
+- ✨: Hỗ trợ check trạng thái ưu tiên lần khám gần nhất để xác định trạng thái ưu tiên cho bệnh nhân khi bắt số [Ordinal]
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/434
+![](https://i.imgur.com/BwpDxKu.png)
+=======
+## [v.3.24.0811.0]()
 - ✨: Yêu cầu - Hỗ trợ hàm kiểm tra thông tuyến theo Công văn 1923/BHXH-CNTT ngày 20/06/2024
 - ✨: Mô tả thực hiện [Ham API tra cuu TT - theo CV 1923-BHXHVN.md
 ](https://github.com/dh-hos/Mo-ta-he-thong/blob/main/XML130/QD4570/Ham%20API%20tra%20cuu%20TT%20-%20theo%20CV%201923-BHXHVN.md)
@@ -13,6 +27,7 @@
 - ✨:  + Sử dụng tài khoản kiểm tra theo tài khoản đăng nhập, điều kiện cụ thể để tài khoản có thể sử dụng tra cứu là có tài khoản BHXH cung cấp khác rỗng, có họ lót và Số CCCD
 - ✨:  + Trường hợp tài khoản đăng nhập không hợp lệ, sẽ tìm theo tài khoản được cấu hình theo khoa, và theo bệnh viện trên Danh mục Nhân viên
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/565
+>>>>>>> 8ec0d04e68faff035cc0e29ffe3887b4cbcf0a87
 ## [v.3.24.0808.0]()
 - 🐛: Fix lỗi - Hiệu chỉnh thông tin thêm lại công khám bị thiếu 1 số thông tin khám bệnh ví dụ như icd phụ, chẩn đoán phụ, icd yhct, tên yhct
 - ☑: https://github.com/dh-hos/dhg.hospitalregister/issues/67
