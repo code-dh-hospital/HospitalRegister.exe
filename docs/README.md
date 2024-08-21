@@ -5,7 +5,14 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue. 📗: Nghiệp vụ, thao tác. 📕: Mô tả cơ sở dữ liệu) </div>
 
 #
-## 3.24.0820.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408200-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408200-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408200-NasDHSolutions.json)
+## 3.24.0821.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408210-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408210-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408210-NasDHSolutions.json)
+- 🐛: Fix - Hiệu chỉnh thông tin chưa hỗ trợ tự lấy trạng thái chuyển tuyến = 5(Giấy hẹn lãnh thuốc) khi check bệnh nhân khám lao
+- 🐛: Fix - Thiếu thông tin Check giấy xác nhận lưu trú và chọn giấy lưu ở tab Thông tin thêm
+- ☑: https://github.com/dh-hos/dhg.hospitaladmin/issues/89
+- ☑: https://github.com/dh-hos/THEO-DOI-THUC-HIEN/issues/105
+![](https://i.imgur.com/HU06FFQ.png)
+![](https://i.imgur.com/aVn0Vhd.png)
+## [v.3.24.0820.0]()
 - 🐛: Fix - Công khám cũ đã thu tiền hiệu chỉnh thông tin vẫn tạo công khám mới
 - 🐛: Fix - Khi chỉnh qua đối tượng khác thì có phần mềm có cập nhật lại thông tin công khám thành công khám theo đối tượng nhưng còn thiếu thông tin ICD, Chẩn đoán chính
 - ☑: https://github.com/dh-hos/dhg.hospitalregister/issues/67
