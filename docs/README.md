@@ -5,7 +5,12 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue. 📗: Nghiệp vụ, thao tác. 📕: Mô tả cơ sở dữ liệu) </div>
 
 #
-## 3.24.0827.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408270-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408270-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408270-NasDHSolutions.json)
+## 3.24.0829.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408290-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408290-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32408290-NasDHSolutions.json)
+- 🐛: Fix - Hiệu chỉnh thông tin - bệnh nhân có công khám 2 phòng bị lấy sai phòng, sai thông tin
+- 🐛: Fix - Hiệu chỉnh thông tin - bệnh nhân có công khám phòng 1 đã thu tiền (dathu =1) khi chỉnh thông tin (click chuột vào đối tượng nhưng không đổi đối tượng) thì phần mềm tạo thêm công khám phòng 2
+- 🐛: Fix - Hiệu chỉnh thông tin - Khi chỉnh bệnh nhân sang đối tượng khác thì phần mềm xóa hết tất cả công khám của các phòng và thêm lại 1 công khám mới theo đối tượng.
+- ☑: https://github.com/dh-hos/dhg.hospitalregister/issues/67
+## [v.3.24.0827.0]()
 - 🐛: **💼**: **_Lỗi - kiểm tra thông tuyến (PK Thiên Phú)_**
 - 🐛: Thông báo chi tiết lỗi khi kiểm tra thông tuyến
 - ☑: https://github.com/dh-hos/dhg.hospitalprescription/issues/308
