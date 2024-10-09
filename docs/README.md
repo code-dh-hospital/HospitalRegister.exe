@@ -5,7 +5,11 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue. 📗: Nghiệp vụ, thao tác. 📕: Mô tả cơ sở dữ liệu) </div>
 
 #
-## 3.24.0924.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32409240-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32409240-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32409240-NasDHSolutions.json)
+## 3.24.1009.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32410090-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32410090-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32410090-NasDHSolutions.json)
+- 🐛: Trường hợp bệnh nhân khám lao có giấy hẹn lãnh thuốc : khi chọn `psdangky.trangthaichuyentuyen = 6` (giấy hẹn lãnh thuốc người bệnh lao) thì hỗ trợ check chọn mặc định `[Bệnh nhân khám lao]` = true đồng thời không bắt buộc phải nhập mã bệnh viện nơi giới thiệu
+![](https://i.imgur.com/kPLKX2U.png)
+- ☑: https://github.com/dh-hos/dhg.hospitalregister/issues/79`
+## [v.3.24.0924.0]()
 - 🐛: Khi các Phân khu ngoài Kios chưa phát sinh số thứ tự thì khi người dùng bấm vào nút Next trên Register thì không ghi nhận dữ liệu vào bảng goibenh và monitor.
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/649
 ## [v.3.24.0923.1]()
