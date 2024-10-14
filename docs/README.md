@@ -5,7 +5,9 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue. 📗: Nghiệp vụ, thao tác. 📕: Mô tả cơ sở dữ liệu) </div>
 
 #
-## 3.24.1013.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32410130-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32410130-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32410130-NasDHSolutions.json)
+## 3.24.1014.0 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32410140-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32410140-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32410140-NasDHSolutions.json)
+- ✨: Test Merge
+## [v.3.24.1013.0]()
 - ✨: Thực hiện Yêu cầu - Prescription hỗ trợ thêm trường ngày cấp và nơi cấp Căn cước công dân
 - ✨: Bắt buộc nhập ngày cấp và nơi cấp CMND/CCCD theo mô tả
 https://github.com/dh-hos/Mo-ta-he-thong/blob/main/Thong-mo-ta-tham-so-bat-buoc-nhap-thong-tin-cccd.md
