@@ -5,7 +5,13 @@
 <div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue. 📗: Nghiệp vụ, thao tác. 📕: Mô tả cơ sở dữ liệu) </div>
 
 #
-## 3.24.1022.1 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32410221-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32410221-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32410221-NasDHSolutions.json)
+## 3.24.1022.2 [⬇️OneDrive](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32410222-OneDrive.json) [⬇️GoogleStorage](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32410222-GoogleStorage.json) [⬇️NasDHSolutions](https://dh-hos-code.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2F%2FdirectTo%2FHospitalRegisterexe%2F32410222-NasDHSolutions.json)
+- ✨: Cập nhật theo -Sửa đổi Mô tả XML130 - Bổ sung QĐ 4750.md - Trường hợp Đối với psdangky.trangthaichuyentuyen = 5 hoặc 6.
+- ✨: Điều chỉnh checkbox `[Bệnh nhân khám lao]` thành radiobutton `[Khám lao]`, tương ứng với `psdangky.trangthaichuyentuyen = 4`.
+- ✨: Bổ sung radiobutton `[Lãnh thuốc lao]`, tương ứng với `psdangky.trangthaichuyentuyen = 6`.
+![](https://i.imgur.com/39o0KOs.png)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/699
+## [v.3.24.1022.1]()
 - ✨: Yêu cầu - ĐIỀU CHỈNH LẠI CÁCH RÀNG BUỘC BỆNH NHÂN CHỈ CÓ PHIẾU THU TẠM ỨNG KHÔNG CHO CHỈNH ĐỐI TƯỢNG
 ![](https://i.imgur.com/VBXnkbB.gif)
 - ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/712
