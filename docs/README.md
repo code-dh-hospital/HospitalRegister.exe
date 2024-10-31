@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.24.1031.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32410310-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32410310-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32410310-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Điều chỉnh lại thao tác xác định cùng tuyến/trái tuyến khi tiếp nhận/chỉnh thông tin
+![](https://i.imgur.com/g2CYlyF.png)
+![](https://i.imgur.com/35OxSY5.gif)
+- ☑: https://github.com/dh-his/Phieu_Yeu_Cau/issues/12
+
 ## [v.3.24.1030.4]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32410304-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32410304-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32410304-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Có nhập Ngày chứng nhận nhưng psdangky.ngaychungnhan_lao = Null
 ![](https://i.imgur.com/pVWacvi.png)
