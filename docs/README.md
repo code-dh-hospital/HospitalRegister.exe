@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1104.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411040-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411040-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411040-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - ĐIỀU CHỈNH LẠI THAO TÁC XÁC ĐỊNH CÙNG TUYẾN/TRÁI TUYẾN KHI TIẾP NHẬN/CHỈNH THÔNG TIN
+- 🐛: Trường hợp `psdangky.manoigt` khác rỗng và `psdangky.trangthaichuyentuyen IN (2,3,4,5) => `psdangky.tuyen = 0` thì không hiện message xác nhận có giấy chuyển tuyến
+- ☑: https://github.com/dh-his/Phieu_Yeu_Cau/issues/12
+
 ## [v.3.24.1101.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411010-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411010-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411010-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Hiệu chỉnh thông tin hiển thị sai nội dung tab khám lao
 ![](https://i.imgur.com/8LQCrii.png)
