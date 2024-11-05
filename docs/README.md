@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1105.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411050-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411050-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411050-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Fix lỗi khi đăng ký không nhập ngày chứng nhận lao nhưng vào hiệu chỉnh thông tin lại thấy có ghi nhận
+![](https://i.imgur.com/DYTNtEC.gif)
+- ☑: https://github.com/dh-hos/To_Lap_Trinh/issues/699
+
 ## [v.3.24.1104.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411040-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411040-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411040-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - ĐIỀU CHỈNH LẠI THAO TÁC XÁC ĐỊNH CÙNG TUYẾN/TRÁI TUYẾN KHI TIẾP NHẬN/CHỈNH THÔNG TIN
 - 🐛: Trường hợp `psdangky.manoigt` khác rỗng và `psdangky.trangthaichuyentuyen IN (2,3,4,5) => `psdangky.tuyen = 0` thì không hiện message xác nhận có giấy chuyển tuyến
