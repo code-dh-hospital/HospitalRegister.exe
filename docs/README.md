@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.24.1115.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411152-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411152-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411152-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Cập nhật chức năng theo dõi bệnh nhân té ngã.
+
+## [v.3.24.1115.1]()
+- ✨: Cập nhật chức năng theo dõi bệnh nhân té ngã.
+
+## [v.3.24.1115.0]()
+- ✨: Cập nhật chức năng theo dõi bệnh nhân té ngã.
+
 ## [v.3.24.1108.0]() <sub><sup><sup>[⬇️OneDrive](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411080-OneDrive.json) [⬇️GoogleStorage](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411080-GoogleStorage.json) [⬇️NasDHSolutions](https://tolaptrinh.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411080-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix - Lỗi khi nhận bệnh, ấn nút đăng ký thì checkbox `Điều trị OPC` không tự động uncheck
 ![](https://i.imgur.com/RqU7PVS.gif)
