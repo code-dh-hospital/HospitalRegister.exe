@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.24.1118.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411181-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411181-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411181-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - psdangky.tuyenxml lưu chưa đúng mô tả.
+- Trường hợp `tuyenbv <= 2` ⇒ Người bệnh ngoài tỉnh: Nếu `psdangky.giayxacnhancutru = 1` thì `[psdangky.tuyen = 0 và psdangky.tuyenxml = 0]`, ngược lại `[psdangky.tuyen = 0 và psdangky.tuyenxml = 1]`.
+![](https://i.imgur.com/DbX0EBP.png)
+- ☑: https://github.com/dh-his/Ghi_Nhan_Loi/issues/37
+
 ## [v.3.24.1118.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411180-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - psdangky.tuyenxml lưu chưa đúng mô tả.
 - Trường hợp `tuyenbv <= 2` ⇒ Người bệnh ngoài tỉnh: Nếu `psdangky.giayxacnhancutru = 1` thì `[psdangky.tuyen = 0 và psdangky.tuyenxml = 0]`, ngược lại `[psdangky.tuyen = 0 và psdangky.tuyenxml = 1]`.
