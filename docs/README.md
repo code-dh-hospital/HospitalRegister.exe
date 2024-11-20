@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1120.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411202-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411202-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411202-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - form đăng ký load thông tin ngày cấp - nơi cấp CCCD đã đăng ký trước đó khi đăng ký lại bằng mabn
+![](https://i.imgur.com/QyKA5SJ.gif)
+- ☑: https://github.com/dhhiswork/YeuCau/issues/9
+
 ## [v.3.24.1120.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411201-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411201-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411201-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Chức năng đăng ký ksk hợp đồng load ds từ file excle không đăng ký được các bệnh có mã xã theo danh mục địa phương 4750
 ![](https://i.imgur.com/QyKA5SJ.gif)
