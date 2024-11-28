@@ -6,6 +6,10 @@
 
 #
 
+## [v.3.24.1128.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411282-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411282-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411282-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Register khi nhập lại thông tin cũ báo lỗi cấu trúc noicap
+- ☑: https://github.com/dhhiswork/Loi/issues/46
+
 ## [v.3.24.1128.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411281-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411281-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32411281-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - NƠI CẤP CỦA CMND TRONG FROM HIỆU CHỈNH THÔNG TIN
 - 🐛: Chỉnh lỗi khi không chọn ngày cấp vẫn lưu có giá trị ![](https://i.imgur.com/YrrrAV3.png) ![](https://i.imgur.com/MDrZc69.png)
