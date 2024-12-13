@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.24.1213.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412132-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412132-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412132-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Hiệu chỉnh thông tin chỉnh đối tượng bệnh nhân không lưu được đối tượng cần chỉnh (BV Ung Bướu)
+- ✨: Trường hợp `psdangky.dain = 1` thông báo đến người dùng không thể thay đổi đối tượng
+![](https://i.imgur.com/aITaIoD.gif)
+- ☑: https://github.com/dhhiswork/Loi/issues/68
+
 ## [v.3.24.1213.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412131-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Đăng ký bệnh án ngoại trú thanh toán theo ngày không lấy được bệnh nhân vừa đăng ký
 - 📕: Xóa mã phòng khám khi người dùng chọn vào bệnh nhân khác, tránh trường hợp người dùng chọn mã phòng trước, rồi chuyển sang khoa khác dẫn đến khi lưu bệnh nhân có mã phòng không thuộc khoa đó nên Pre không load được bệnh nhân lên
