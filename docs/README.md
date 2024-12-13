@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.24.1213.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412134-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412134-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412134-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Register gọi bệnh chưa theo mô tả
+- 📕: Cập nhật gọi bệnh trên Register giống với mô tả https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/Thong-mo-ta-cau-hinh-cach-doc-goi-benh-tren-speaker.md
+- ☑: https://github.com/dhhiswork/Loi/issues/83
+
 ## [v.3.24.1213.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412133-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412133-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412133-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - phần mềm bắt buộc nhập mã bệnh viện Lao (khi đăng ký bant)
 ![](https://i.imgur.com/MuclybP.gif)
