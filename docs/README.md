@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.24.1213.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412131-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Đăng ký bệnh án ngoại trú thanh toán theo ngày không lấy được bệnh nhân vừa đăng ký
+- 📕: Xóa mã phòng khám khi người dùng chọn vào bệnh nhân khác, tránh trường hợp người dùng chọn mã phòng trước, rồi chuyển sang khoa khác dẫn đến khi lưu bệnh nhân có mã phòng không thuộc khoa đó nên Pre không load được bệnh nhân lên
+![](https://i.imgur.com/AoKOiZs.gif)
+- ☑: https://github.com/dhhiswork/Loi/issues/81
+
 ## [v.3.24.1213.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412130-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - REGISTER ĐĂNG KÝ BANT - BỔ SUNG CHỨC NĂNG TAB KHÁM LAO
 ![](https://i.imgur.com/Fs2xGE1.png)
