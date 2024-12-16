@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.24.1216.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412160-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Register, Prescription hỗ trợ In thông tin kiểm tra thông tuyến 
+- ✨: ***Bổ sung chức năng in thông tin Thông tuyến BHXH*** ![](https://i.imgur.com/DdTOUDF.png) ![](https://i.imgur.com/xH1GXt7.png) ![](https://i.imgur.com/UuEGDdG.png) ![](https://i.imgur.com/vywyZ7E.png)
+- ✨: Hỗ trợ các para: `ngaygioin` `DATESYS` `hoten_taikhoanlv` `taikhoanlv`
+- ☑: https://github.com/dhhiswork/YeuCau/issues/43
+
 ## [v.3.24.1214.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412141-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Register gọi bệnh chưa theo mô tả.
 - 🐛: Fix lỗi phần gọi bệnh từ số... đến số....
