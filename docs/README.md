@@ -829,6 +829,13 @@ Push lại.
 - 🐛: Fix lỗi mất Logo
 - ☑: https://github.com/dh-hos/dhg.hospitalregister/issues/68
 
+## [v.1.24.1223.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F12412230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F12412230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F12412230-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - PK Đông Tây: Nhận bệnh hiện thông báo bệnh nhân có giấy chuyển tuyến không khi nhận bệnh trái tuyến
+- ✨: Bổ sung tham số `nhabbenh.traituyen` hỗ trợ tùy chọn bật `Thông báo bệnh nhân trái tuyến, có giấy chuyển viện không ?`
+![](https://i.imgur.com/sr8UvNK.png)
+![](https://i.imgur.com/Xocq42y.gif)
+- ☑: https://github.com/dhhiswork/YeuCau/issues/61
+
 ## [v.1.24.1222.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F12412220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F12412220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F12412220-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng trả kết quả xét nghiệm ung thư tế bào tử cung.
