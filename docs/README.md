@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.24.1223.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412231-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412231-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412231-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - PK Đông Tây: Nhận bệnh hiện thông báo bệnh nhân có giấy chuyển tuyến không khi nhận bệnh trái tuyến
+- 🐛: Register có hiện cảnh báo bệnh nhân trái tuyến, có giấy chuyển viện không? nhưng khi chọn không phần mềm vẫn ghi nhận bệnh nhân cùng tuyến, bấm chỉnh chọn có giấy chuyển thì phần mềm chuyển qua trái tuyến
+- 🐛: Phần mềm ghi nhận sai phiên bản, báo chưa cập nhật phần mềm mới (phần mềm không có trên NAS, tải từ googlestorage
+- ☑: https://github.com/dhhiswork/YeuCau/issues/61
+
 ## [v.3.24.1222.2]()
 
 - ✨: Bổ sung chức năng trả kết quả xét nghiệm ung thư tế bào tử cung.
