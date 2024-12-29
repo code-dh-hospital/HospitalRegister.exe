@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.24.1229.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412290-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi: Chức năng trả kết quả xét nghiệm ung thư tế bào tử cung chưa thu vẫn trả kết quả được.
+![image](/attachments/39748712-d41a-409b-b318-de8352cc3caf)
+- ☑: https://i.dh-his.com/test/LOI/issues/12
+
 ## [v.3.24.1227.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412271-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412271-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412271-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Các module add mã chính thức 96176 Phòng khám đa khoa Y Đức Sài Gòn - YEUCAU
 - ☑: https://i.dh-his.com/test/YEUCAU/issues/4
