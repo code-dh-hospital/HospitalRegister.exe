@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.24.1230.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412300-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Khi Xác thực CCCD bằng Thiết bị xác thực Căn cước gắn chíp HN-212 - Truyền số CCCD vào ô F2
+<<<<<<< HEAD
+
+## [v.3.24.1230.0]()
+- ✨: Yêu cầu - Khi Xác thực CCCD bằng Thiết bị xác thực Căn cước gắn chíp HN-212 - Truyền số CCCD vào ô F2
+=======
+
 ## [v.3.24.1229.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412292-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412292-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32412292-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Fix chức năng hỗ trợ tiếp nhận bệnh nhân trong tỉnh PK Nam Phương và PK Phương Nam.
 
