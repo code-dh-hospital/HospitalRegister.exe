@@ -6,7 +6,7 @@
 
 #
 
-## [v.3.25.0102.0]()
+## [v.3.25.0102.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501020-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501020-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501020-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Khi Xác thực CCCD bằng Thiết bị xác thực Căn cước gắn chíp HN-212 - Truyền số CCCD vào ô F2
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/5
 =======
