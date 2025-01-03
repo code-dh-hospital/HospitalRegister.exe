@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0103.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501030-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - PK Đông Tây: Nhận bệnh hiện thông báo bệnh nhân có giấy chuyển tuyến không khi nhận bệnh trái tuyến
+![](https://i.imgur.com/krUCKL3.gif)
+- ☑: https://i.imgur.com/krUCKL3.gif
+
 ## [v.3.25.0102.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501021-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501021-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501021-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Hiệu chỉnh thông tin - Giữ nguyên tuyenxml khi chỉnh cấp cứu như Nhận bệnh
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/3
