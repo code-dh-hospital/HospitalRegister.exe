@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0113.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501130-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu: Register mở chức năng Đăng ký khám Online cho BV ĐKTP Cần Thơ và BV Ô Môn
+- ✨: Sử dụng hàm `OTH.Adapter.Common.HisPrivateCode.MabvIsUsePrivateCodeBy()`, tham số truyền vào `OTH.Entity.Common.PrivateCodeKind` để áp dụng việc bắt key triển khai chức năng riêng. Với chức năng này là `dangkyonline`
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/26
+
 ## [v.3.25.0110.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501100-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Test: Printer, Prescription và Treatment : Bảng kê 6556 bệnh nhân có giấy chuyển tuyến là trái tuyến
 - 🐛: Phần mềm chưa cập nhật trường hợp bệnh nhân nhận thuốc Lao (trangthaichuyentuyen = 6)
