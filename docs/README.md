@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0113.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501131-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501131-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501131-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Điều chỉnh chức năng nhập bệnh đối với trường hợp chỉ lấy STT tại KIOS
+- 🐛: Khi bấm Đăng ký thì đơn vị tuổi mặc định là Tuổi, nhưng khi bấm gọi STT của BN thì đơn vị tuổi tự chuyển qua là Ngày=> Khi người dùng nhập tuổi vào ô Tuổi thì phải chọn lại đơn vị tuổi đối với người lớn
+![](https://i.imgur.com/T329wgP.gif)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/7
+
 ## [v.3.25.0113.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501130-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: Register mở chức năng Đăng ký khám Online cho BV ĐKTP Cần Thơ và BV Ô Môn
 - ✨: Sử dụng hàm `OTH.Adapter.Common.HisPrivateCode.MabvIsUsePrivateCodeBy()`, tham số truyền vào `OTH.Entity.Common.PrivateCodeKind` để áp dụng việc bắt key triển khai chức năng riêng. Với chức năng này là `dangkyonline`
