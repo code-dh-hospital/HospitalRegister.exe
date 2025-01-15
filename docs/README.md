@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0115.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501151-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Tại form đăng ký: Nếu các tham số `tuyenbv = 3`, `cap >= 2` và người dùng ghi nhận `psdangky.maicdtd` được xác định tại `dmicd.capchuyenmon = 1` (tham chiếu psdangky.maicdtd = maicd.maicd) thì ghi nhận `psdangky.tuyen = 0` và psdangky.tuyenxml = 0`
+![](https://i.imgur.com/ITdjtRs.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/20
+
 ## [v.3.25.0115.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501150-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - BV Thới Lai: Kết nối máy xác thực CCCD gắn chip FPT Citizen Identity Card Reader– F.IDR01 vào phần mềm
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/4
