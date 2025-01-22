@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0122.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501221-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - PK Đông Tây: Mất ngày cấp và nơi cấp CCCD khi đăng ký bệnh nhân cũ
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/52
+
+![](https://i.imgur.com/GF1VZ8i.gif)
+
 ## [v.3.25.0122.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501220-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu: - Mở chức năng lấy số thứ tự từ Kios cho Trung tâm y tế huyện Hồng Dân
 - ✨: Sử dụng chức năng kiểm tra chức năng riêng để mở chức năng theo yêu cầu: `OTH.Adapter.Common.HisPrivateCode.MabvIsUsePrivateCodeBy` với key là `dhkios`
