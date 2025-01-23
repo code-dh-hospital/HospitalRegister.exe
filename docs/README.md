@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0123.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501230-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Thực hiện chuyển nhà cung cấp dịch vụ SMS cho khách hàng (PK Phương Nam, PK Nam Phương) từ Viettel - VNPT - (dh-issue/YEUCAU/#34) 
+- ✨: Bổ sung chức năng tích hợp gửi SMS đối với API của VINAPHONE ![](https://i.imgur.com/Oorj0on.png) ![](https://i.imgur.com/wjo9pLQ.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/34
+
 ## [v.3.25.0122.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501221-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - PK Đông Tây: Mất ngày cấp và nơi cấp CCCD khi đăng ký bệnh nhân cũ
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/52
