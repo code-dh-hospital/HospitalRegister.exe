@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0204.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502040-NasDHSolutions.json)</sup></sup></sub>
+Push lại do thiếu dll
+✨: Yêu cầu: - Mở chức năng lấy số thứ tự từ Kios cho Trung tâm y tế huyện Hồng Dân
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/31
+
 ## [v.3.25.0123.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501232-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501232-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32501232-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Thực hiện chuyển nhà cung cấp dịch vụ SMS cho khách hàng (PK Phương Nam, PK Nam Phương) từ Viettel - VNPT - (dh-issue/YEUCAU/#34)
 - ✨: Hỗ trợ Giữ nguyên họ tên có dấu Tiếng Việt
