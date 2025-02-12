@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0212.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502120-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BC chỉ định cls dịch vụ lệch số lượng giữa danh sách chi tiết và số lượng tổng hợp (BV Ô Môn)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/64
+
+![](https://i.imgur.com/OePAQS5.gif)
+
 ## [v.3.25.0211.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502110-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng [gửi/hủy PACS] khi thực hiện chỉ định/xóa cận lâm sàng. Kết nối PACS (Vĩnh Phát), Bệnh viện Nhi Đồng Cần Thơ.
