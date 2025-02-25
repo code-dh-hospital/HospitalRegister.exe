@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0225.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502251-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Register: Nhận bệnh thông báo "Mã thẻ BHYT đã tồn tại"
+- 📕: Khi quét thẻ bhyt, lúc load dữ liệu thêm điều kiện lấy theo `current.dmthebhyt.ngaycuoi` lớn nhất.
+- 📕: Khi lưu nhận bệnh, lúc kiểm tra thẻ bhyt, thêm điều kiện `current.dmthebhyt.ngaycuoi` lớn nhất.
+![](https://i.imgur.com/eHvZ5NA.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/88
+
 ## [v.3.25.0225.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502250-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Register - Đăng ký online tự xuất hiện form chọn nới ĐKBĐ cho đối tượng thu phí khi ấn đăng ký
 ![](https://i.imgur.com/pt9zbJS.gif)
