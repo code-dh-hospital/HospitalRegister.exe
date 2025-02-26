@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0226.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502261-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Phần mềm thông báo lỗi kiểm tra thông tuyến khi thông tin bệnh nhân đúng - LOI - dh-issue- #101
+- 🐛:  ***Bỏ qua thông báo khi kết quả thông tuyến 000.*** ![](https://i.imgur.com/tKJTkr9.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/101#issuecomment-2610
+
 ## [v.3.25.0226.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502260-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Bổ sung params `uutien` cho trang in Phiếu khám bệnh để hiển thị bệnh nhân ưu tiên
 ![](https://i.imgur.com/ewEUJWB.png)
