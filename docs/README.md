@@ -6,6 +6,26 @@
 
 #
 
+## [v.3.25.0226.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32502260-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Bổ sung params `uutien` cho trang in Phiếu khám bệnh để hiển thị bệnh nhân ưu tiên
+![](https://i.imgur.com/ewEUJWB.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/38
+
+## [v.3.25.0225.14]()
+- 🐛: Lỗi: Khi nhận bệnh xuất hiện thông báo "Mã thẻ BHYT đã tồn tại"
+- Khi quét thẻ bhyt, lúc load dữ liệu thêm điều kiện lấy theo current.dmthebhyt.ngaycuoi lớn nhất.
+- Khi lưu nhận bệnh, lúc kiểm tra thẻ bhyt, thêm điều kiện current.dmthebhyt.ngaycuoi lớn nhất.
+![](https://i.imgur.com/eHvZ5NA.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/88
+
+## [v.3.25.0225.13]()
+push lại
+- 🐛: Lỗi: Khi nhận bệnh xuất hiện thông báo "Mã thẻ BHYT đã tồn tại"
+- Khi quét thẻ bhyt, lúc load dữ liệu thêm điều kiện lấy theo current.dmthebhyt.ngaycuoi lớn nhất.
+- Khi lưu nhận bệnh, lúc kiểm tra thẻ bhyt, thêm điều kiện current.dmthebhyt.ngaycuoi lớn nhất.
+![](https://i.imgur.com/eHvZ5NA.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/88
+
 ## [v.3.25.0225.12]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F325022512-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F325022512-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F325022512-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: push test
 ![](https://i.imgur.com/eHvZ5NA.gif)
