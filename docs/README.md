@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0401.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504010-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Chức năng Hiệu chỉnh thông tin bệnh nhân hiển thị đầy đủ thông tin thẻ BHYT
+![](https://i.imgur.com/ODow8tW.gif)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/148
+
 ## [v.3.25.0326.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32503261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32503261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32503261-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Register chức năng Đăng ký KCB tab Danh sách bệnh nhân WEB (BV Phụ Sản)
 ![](https://i.imgur.com/r0W4gKA.gif)
