@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0409.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504090-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Tim Mạch CT: Register mới Đăng ký KCB qua Web không lấy được thông tin bệnh nhân cũ (đã có thông tin thẻ KCB tại BV)
+![](https://i.imgur.com/oVbkBRo.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/214
+
 ## [v.3.25.0407.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504070-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hiển thị kết quả `Phiếu XQ, Phiếu chụp CT` bổ sung `QRCode` từ `link viewer` ca chụp từ hệ thống PACS (Bệnh viện Tâm Phúc).
