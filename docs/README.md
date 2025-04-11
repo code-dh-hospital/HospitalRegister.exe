@@ -6,6 +6,20 @@
 
 #
 
+## [v.3.25.0411.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504111-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - BV Tim Mạch CT: Register mới Đăng ký KCB qua Web không lấy được thông tin bệnh nhân cũ (đã có thông tin thẻ KCB tại BV)
+- 🐛: Đăng ký bệnh nhân khám DV thu phí không có BHYT phần mềm vẫn thông báo bệnh nhân trái tuyến có giấy chuyển viện hay không -> tắt thông báo đó
+       Bệnh nhân mới đăng ký khám BH lần đầu thông tin đăng ký Web không có nơi đăng ký KCB ban đầu thì BV yêu cầu tắt thông báo bệnh nhân trái tuyến có giấy chuyển viện không như ở phần mềm Register cũ
+![](https://i.imgur.com/KkcmTjg.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/214
+
+## [v.3.25.0411.0]()
+- 🐛: Lỗi - BV Tim Mạch CT: Register mới Đăng ký KCB qua Web không lấy được thông tin bệnh nhân cũ (đã có thông tin thẻ KCB tại BV)
+- 🐛: Đăng ký bệnh nhân khám DV thu phí không có BHYT phần mềm vẫn thông báo "bệnh nhân trái tuyến có giấy chuyển viện hay không" -> tắt thông báo đó
+       Bệnh nhân mới đăng ký khám BH lần đầu thông tin đăng ký Web không có nơi đăng ký KCB ban đầu thì BV yêu cầu tắt thông báo "bệnh nhân trái tuyến có giấy chuyển viện không" như ở phần mềm Register cũ
+![](https://i.imgur.com/KkcmTjg.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/214
+
 ## [v.3.25.0409.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504090-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - BV Tim Mạch CT: Register mới Đăng ký KCB qua Web không lấy được thông tin bệnh nhân cũ (đã có thông tin thẻ KCB tại BV)
 ![](https://i.imgur.com/oVbkBRo.gif)
