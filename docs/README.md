@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.0411.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504113-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504113-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504113-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Điều chỉnh khi tiếp nhận bệnh và hiệu chỉnh thông tin bệnh nhân trong tỉnh đối với tham số `tuyenbv <= 2` và `mabvdk` có `tuyencmkt <= 2`.
+![](https://i.imgur.com/bjOr1zv.png)
+![](https://i.imgur.com/gkAmNlh.png)
+![](https://i.imgur.com/iuBFLDw.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/146
+
 ## [v.3.25.0411.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504112-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504112-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504112-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Register mới khi đăng ký KCB bình thường lấy thông tin cũ thì không lấy được mã đối tượng
 - 🐛: Register mới khi đăng ký KCB qua Web thì lấy sai nơi đăng ký KCB ban đầu nên không có thông báo bệnh nhân trái tuyến có giấy chuyển không
