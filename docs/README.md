@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0411.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504114-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504114-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504114-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Cấp trùng số thứ tự đăng ký danh sách bệnh nhân Web (BV YHCT CT)
+![](https://i.imgur.com/Q4PYDTH.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/220
+
 ## [v.3.25.0411.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504113-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504113-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504113-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Điều chỉnh khi tiếp nhận bệnh và hiệu chỉnh thông tin bệnh nhân trong tỉnh đối với tham số `tuyenbv <= 2` và `mabvdk` có `tuyencmkt <= 2`.
