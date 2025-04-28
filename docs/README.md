@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0428.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504280-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Tích hợp chức năng ký số lên phiếu chỉ định cận lâm sàng, phiếu kết quả cận lâm sàng
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/66
+
+![](https://i.imgur.com/0spYNwp.gif)
+
 ## [v.3.25.0425.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32504250-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Bổ sung tiêu chí khi xem lịch sử khám bệnh
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/169
