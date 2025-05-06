@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.0506.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505060-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung chức năng phục vụ cho việc đăng ký online.
+- ✨: Thể hiện thêm cột tên đối tương trên danh sách bệnh nhân đăng ký web
+- ✨: Phân biệt bệnh nhân đăng ký online đã được tiếp nhận vào HIS thành công
+- ✨: Phân biệt bệnh nhân đăng ký online để hỗ trợ thống kê báo cáo.
+- ✨: Bổ sung para tendoituong trên phiếu stt vào phòng khám
+![](https://i.imgur.com/9IOoNct.gif)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/177
+
 ## [v.3.25.0505.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505050-NasDHSolutions.json)</sup></sup></sub>
 - ✨: YÊU CẦU - SẢN NHI TRÀ VINH - Đăng ký nhận bệnh BHYT có mã nơi ĐKBĐ 84001 thì mặc định Đúng Tuyến
 - ✨: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH-THONGTUYEN/Tiep-nhan-benh-dung-tuyen-BV-tuyen-tinh.md
