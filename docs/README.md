@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0522.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505220-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Form nhận bệnh không lấy đúng chỉ số sinh hiệu Hb, FiO2
+![](https://i.postimg.cc/xCnLFqWj/Hospital-Register-i-Feo7h-ZQt-U.gif)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/313
+
 ## [v.3.25.0507.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505072-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505072-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505072-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Register: Cho phép đăng ký KSK HĐ với mã đối tượng đã ngưng sử dụng
 ![](https://i.imgur.com/a8PtiWC.gif)
