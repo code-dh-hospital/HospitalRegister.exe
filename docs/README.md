@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.0527.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505270-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Register: In phiếu chỉ định CLS báo lỗi khi tham số phieuycchuan = 0 hoặc 1
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/308
+
+![](https://i.ibb.co/ccmgVpdB/Hospital-Register-Au-C3-APYjpz.png)
+
 ## [v.3.25.0526.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32505260-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Register, Prescription: Báo cáo tiền công khám không lấy được danh sách bệnh nhân
 ![](https://i.ibb.co/svYpxjPB/Hospital-Register-Gt-VH3-AUMWZ.png)
