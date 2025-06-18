@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.25.0618.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506180-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - Bổ sung hàm xử lý hóa đơn điện tử VIETTEL
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/282
+
+- Cập nhật chức năng kiểm tra phiếu thu theo tham số ngoaitru.phieuthu, cập nhật lại trạng thái thuchi.hddt_thaythe cho các phiếu thu đã lập HDDT khi hoàn thành chỉnh thông tin bệnh nhân tại Form
+- Ghi nhật ký thêm thông tin chỉnh thông tin khi bệnh nhân đã có phiếu thu.
+- Theo mô tả [BO_SUNG_CHINH_VA_THAY_THE_HDDT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/FEES/BO_SUNG_CHINH_VA_THAY_THE_HDDT.md)
+![](https://live.staticflickr.com/65535/54597836325_5e5083b489_b.jpg)
+![](https://live.staticflickr.com/65535/54597240866_7948983461_b.jpg)
+
 ## [v.3.25.0617.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506171-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: fix lỗi bệnh nhân đăng ký khám từ KiosHDBANK không load được mã viết tắt
 
