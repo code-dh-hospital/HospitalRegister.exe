@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.0623.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506231-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506231-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506231-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Thay đổi màu đối với cls đã thực hiện (BV Tim Mạch CT)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/265
+
+- Bổ sung màu cho Cận lâm sàng đã thực hiện, đã lập phiếu Phẩu thuật/Thủ thuật form Chỉ định CLS tự do
+- Theo mô tả : [REGISTER_BO_SUNG_BANG_MAU_CHI_DINH_CLS_TU_DO](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/KHAMBENH/REGISTER_BO_SUNG_BANG_MAU_CHI_DINH_CLS_TU_DO.md)
+![](https://live.staticflickr.com/65535/54608406336_e14d449bec_b.jpg)
+![](https://live.staticflickr.com/65535/54608419246_2f292db09a_b.jpg)
+
 ## [v.3.25.0623.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506230-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Khi đăng ký từ kiosHDBank thì không in số thứ tự tại quầy tiếp nhận nữa
 
