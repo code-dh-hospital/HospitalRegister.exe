@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.25.0624.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506240-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu Cầu - Bổ sung hàm xử lý hóa đơn điện tử VIETTEL
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/282
+- 📕: Thay đổi truy vấn lấy thêm thông tin để kiểm tra bệnh nhân có phiếu thu theo tham số ngoaitru.phieuthu để cảnh báo người dùng
+
+- Fix lỗi không thông báo cập nhật hoá đơn khi đã mở khoá thay thế
+[BO_SUNG_CHINH_VA_THAY_THE_HDDT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/FEES/BO_SUNG_CHINH_VA_THAY_THE_HDDT.md)
+![](https://live.staticflickr.com/65535/54610869684_30f8e1cb1f_b.jpg)
+
 ## [v.3.25.0623.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506231-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506231-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506231-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Thay đổi màu đối với cls đã thực hiện (BV Tim Mạch CT)
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/265
