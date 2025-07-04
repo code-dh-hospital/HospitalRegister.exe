@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.25.0704.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32507041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32507041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32507041-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Sau khi nhận bệnh 1 bệnh nhân cùng tuyến có chẩn đoán tuyến dưới hỗ trợ cấp chuyên môn thì các bệnh nhân sau không nhập chẩn đoán tuyến dưới vẫn nhận bệnh cùng tuyến (phải tắt form nhận bệnh mở lại)
+- 🐛: Khi chỉnh thông tin đăng ký và xóa chẩn đoán tuyến dưới có hỗ trợ cấp chuyên môn rồi lưu lại thì phần mềm vẫn ghi nhận trạng thái cùng tuyến
+- 🐛: Khi phần mềm hỏi bệnh nhân trái tuyến có giấy chuyển viện không lần 2 thì phần mềm thông báo Mã nơi cấp thẻ không phù hợp.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/122
+
+## [v.3.25.0704.0]()
+- 🐛: Sau khi nhận bệnh 1 bệnh nhân cùng tuyến có chẩn đoán tuyến dưới hỗ trợ cấp chuyên môn thì các bệnh nhân sau không nhập chẩn đoán tuyến dưới vẫn nhận bệnh cùng tuyến (phải tắt form nhận bệnh mở lại)
+- 🐛: Khi chỉnh thông tin đăng ký và xóa chẩn đoán tuyến dưới có hỗ trợ cấp chuyên môn rồi lưu lại thì phần mềm vẫn ghi nhận trạng thái cùng tuyến
+- 🐛: Khi phần mềm hỏi bệnh nhân trái tuyến có giấy chuyển viện không lần 2 thì phần mềm thông báo "Mã nơi cấp thẻ không phù hợp.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/122
+
 ## [v.3.25.0630.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506300-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506300-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32506300-NasDHSolutions.json)</sup></sup></sub>
 - ✨: YÊU CẦU - Mở mã bv 95006 để Đăng ký KCB xác thực CCCD gắn chip bằng thiết bị FPT-IDReader
 ![](https://i.vgy.me/ncCX1F.png)
