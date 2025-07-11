@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.0711.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32507110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32507110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32507110-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨:  YÊU CẦU - Bổ sung Danh mục địa phương theo Công văn số 1027/CTK-CSCL (gọi tắt Danh mục theo CV 915/CTK-CSCL) - YEUCAU - dh-issue- #346
+- ✨:  ***Cập nhật thêm danh mục địa phương 2 cấp theo mô tả [CONGVAN-YEUCAU/Cong-van-915-CTK-CSCL-2025/Danh-muc-dia-phuong-Cong-van-915-v2.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CONGVAN-YEUCAU/Cong-van-915-CTK-CSCL-2025/Danh-muc-dia-phuong-Cong-van-915-v2.md).*** 
+![](https://live.staticflickr.com/65535/54648168298_dc3fc712b5_b.jpg)![](https://live.staticflickr.com/65535/54648169428_cfb509811c_b.jpg)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/346
+
 ## [v.3.25.0704.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32507041-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32507041-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32507041-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Sau khi nhận bệnh 1 bệnh nhân cùng tuyến có chẩn đoán tuyến dưới hỗ trợ cấp chuyên môn thì các bệnh nhân sau không nhập chẩn đoán tuyến dưới vẫn nhận bệnh cùng tuyến (phải tắt form nhận bệnh mở lại)
 - 🐛: Khi chỉnh thông tin đăng ký và xóa chẩn đoán tuyến dưới có hỗ trợ cấp chuyên môn rồi lưu lại thì phần mềm vẫn ghi nhận trạng thái cùng tuyến
