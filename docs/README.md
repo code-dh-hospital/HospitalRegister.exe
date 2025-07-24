@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.0724.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32507241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32507241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32507241-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Register Chức năng đăng ký khám chữa bệnh (BV Ung Bướu)
+- 🐛: Trường hợp 2 máy tính sử dụng module Register cùng lúc lick chọn chức năng ĐĂNG KÝ phần mềm hiển thị thông báo lỗi
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/407
+
 ## [v.3.25.0724.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32507240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32507240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32507240-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Cập nhật không cho tùy chỉnh Từ ngày trong Phiếu nghỉ ốm
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/365
