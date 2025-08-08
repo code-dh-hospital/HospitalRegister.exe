@@ -6,6 +6,10 @@
 
 #
 
+## [v.3.25.0808.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32508080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32508080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32508080-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: YÊU CẦU - Tham số dmdiaphuong = 1 Chặn địa chỉ 3 cấp khi đăng ký bằng mã BN cũ
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/401
+
 ## [v.3.25.0806.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32508060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32508060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32508060-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - BV Phụ Sản: Báo cáo lượt đăng ký theo địa phương không thống kê được số liệu - LOI - dh-issue- #425
 - 🐛:  ***Chỉnh lỗi lấy danh sách chi tiết theo số lượng theo danh mục địa phương 2 cấp.*** ![](https://live.staticflickr.com/65535/54702059257_a30f48946f_b.jpg)
