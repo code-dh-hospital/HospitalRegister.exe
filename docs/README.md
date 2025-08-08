@@ -6,6 +6,10 @@
 
 #
 
+## [v.3.25.0808.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32508081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32508081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32508081-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: YÊU CẦU - Tham số dmdiaphuong = 1 Chặn địa chỉ 3 cấp khi đăng ký bằng mã BN cũ
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/401
+
 ## [v.3.25.0808.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32508080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32508080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32508080-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: YÊU CẦU - Tham số dmdiaphuong = 1 Chặn địa chỉ 3 cấp khi đăng ký bằng mã BN cũ
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/401
