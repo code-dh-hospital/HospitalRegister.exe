@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1007.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510070-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Bổ sung chức năng kiểm tra bệnh nhân thiếu mã phường xã khi đăng ký tái khám bant (BV Thạnh Trị) - YEUCAU - dh-issue- #501
+- ✨:  ***Bổ sung chức năng kiểm tra địa chỉ trước khi đăng ký tái khám BANT.***  ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-07-11h21p21.262.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/501
+
 ## [v.3.25.0925.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32509250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32509250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32509250-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Register In phiếu chỉ định cận lâm sàng tự do có sử dụng chữ ký số Bác sĩ báo lỗi #533
 ![](https://i.vgy.me/lQGNyO.png)
