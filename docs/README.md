@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1010.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510100-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Register: BV Ô Môn: Đăng ký tái khám BANT không lấy được ngày 5 năm - LOI - dh-issue- #541
+- 🐛:  ***Ghi nhận thêm giá trị của `ngay5nam` khi đăng ký BANT.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-10-13h35p32.487.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/541
+
 ## [v.3.25.1008.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510080-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  YÊU CẦU - Mẫu số 07 Nghỉ ốm - Bổ sung trường dữ liệu xuất excel gửi cổng BH - YEUCAU - dh-issue- #504
 - ✨:  ***Bổ sung các trường dữ liệu theo Yêu cầu, LOAI_GIAYTO=1 (lấy theo thông tin loại giấy báo tử).***![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-08-10h31p22.539.png)![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-08-10h31p28.646.png)
