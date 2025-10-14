@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1014.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510141-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  YÊU CẦU - Mẫu số 07 Nghỉ ốm - Bổ sung trường dữ liệu xuất excel gửi cổng BH - YEUCAU - dh-issue- #504
+- ✨:  ***Chỉnh lỗi lấy ICD theo thông tin khám bệnh (chưa in phiếu 01 vẫn có).*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-14-19h23p50.808.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/504#issuecomment-16849
+
 ## [v.3.25.1014.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510140-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Chức năng đăng ký bệnh nhân không lưu được phường xã (BV Thạnh Trị) - LOI - dh-issue- #568
 - 🐛:  ***Xử lý chọn Địa chỉ đầu tiên nếu người dùng không chọn chính xác địa chỉ (chỉ gõ chữ viết tắt, rồi Enter hoặc Tab).*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-Zalo-2025-10-14-09h22p50.460.png)
