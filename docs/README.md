@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1015.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510151-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Xử lý bỏ cảnh báo mã thẻ đã tồn tại. #514
+![](https://files.catbox.moe/ivutdk.gif)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/514
+
 ## [v.3.25.1015.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510150-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  YÊU CẦU - Mẫu số 07 Nghỉ ốm - Bổ sung trường dữ liệu xuất excel gửi cổng BH - YEUCAU - dh-issue- #504
 - ✨:  ***Chỉnh lỗi lấy ICD theo thông tin khám bệnh (chưa in phiếu 01 vẫn có, chỉnh lỗi manv trong phiếu nghỉ ốm khác với manv thực hiện khám bệnh).*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-15-09h43p02.272.png)
