@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1023.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510230-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Cập nhật chức năng xuất excel mẫu 07 gửi cổng BHXH báo cáo phiếu nghĩ ốm (BV Thạnh Trị) - YEUCAU - dh-issue- #533
+- ✨:  ***Chỉnh lỗi sai thứ tự `loai_giayto` và `so_cccd`.*** ![](https://i.vgy.me/FWSn9D.png)
+- ✨: ***Mặc định xuất Excel bằng `xlsx`***
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/533
+
 ## [v.3.25.1021.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510210-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Register: Hiển thị danh sách địa phương 2 cấp tại mục Đăng ký KSK HĐ - YEUCAU - dh-issue- #532
 - ✨:  ***Thêm địa chỉ theo địa phương 2 cấp, theo tham số áp dụng.*** ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-21-09h38p06.208.png) ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-21-09h39p51.314.png)
