@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.25.1024.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510241-NasDHSolutions.json)</sup></sup></sub>
+- ✨:  Yêu cầu - Hỗ trợ chức năng cấp thẻ tạm theo địa phương 2 cấp BV Thạnh trị #525
+
+- Cập nhật: Register
+
+![](https://i.vgy.me/BjIona.png)
+![](https://i.vgy.me/fynL5q.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/525
+
 ## [v.3.25.1024.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510240-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Cập nhật chức năng xuất excel mẫu 07 gửi cổng BHXH báo cáo phiếu nghĩ ốm (BV Thạnh Trị) - YEUCAU - dh-issue- #533
 - ✨:  ***Chỉnh lỗi sai thứ tự `loai_giayto` và `so_cccd`, áp dụng đối với phiếu nghỉ ốm và dưỡng thai*** ![](https://i.vgy.me/FWSn9D.png) ![](https://storage.googleapis.com/accurately-sharp-katydid.appspot.com/ShareX/2025/10/DESKTOP-2FLMTI6-explorer-2025-10-24-08h07p51.743.png)
