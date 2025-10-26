@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1026.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510260-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Register Chưa ký số được phiếu chỉ định cận lâm sàng tự do - LOI - dh-issue- #592
+- 🐛: ***Bổ sung chức năng ký số trên chức năng chỉ định CLS tự do.*** ![](https://i.vgy.me/Nn5TbQ.png)
+- ✨: ***Cải tiến toàn bộ chức năng in tự thiết kê trên chức năng chỉ định CLS tự do***
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/592#issuecomment-17695
+
 ## [v.3.25.1024.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32510241-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Hỗ trợ chức năng cấp thẻ tạm theo địa phương 2 cấp BV Thạnh trị #525
 
