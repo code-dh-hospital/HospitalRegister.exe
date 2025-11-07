@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.25.1107.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511073-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511073-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511073-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Hỗ trợ cảnh báo loại giấy tờ theo mô tả [THONG-TIN-BENH-NHAN/Xuat-Excel-Tom-tat-ho-so-benh-an.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONG-TIN-BENH-NHAN/Xuat-Excel-Tom-tat-ho-so-benh-an.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczPhY3Zw2V8AxaP5bPZTqHMB6BY4ZfP42-faGdC8sPZmsCKcCJ3pVa5B2Jczl0xV_9hipf8ztxyvt7haQdW7_hhSoqz6tiHNgcis1aNlLZbGzc67Gl8VbPICJjCyat9W90F6ieM8IsSx-xT9nzbOOQZW=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNyAEQfBjGbPKTogNpoo_S2kUOHi08ugB5RHQ656D6o_QW2BjXa2pu296UG-XH3fkaebW91kItMJ0Oc7hdEHd-hkDdU7b9RxW12aCwELBGUGlhAdZzOsX3VFBxSjE02y_BjCkd5kIj7MDMfQR2izz8i=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOpCSoo48Jl2K9UeBBlLExRE9kDxGgWCpXzEYp7pahkHoeCNsNCSAhahfk8lbTs2yayU_doMOal-fKUrfenjN7NJeK2NfVReWJcRt1V3lpmVdi_Y_9VsS7cDXpUcPvf5FEZRm32LpiJGVyG-7G7fMcX=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMTrWMTCqxfhSct1k_EO6Ex-zcd0MF2TnMzFFYA1OOquk1wOw7S7rRwAZDCAXj3nBdcmeng6_I3GG33ouIuSuf84CY_3ygyJGzDpz6Ll__qozrO8UmlnffXzxhx8H5GHEjipkhFojksJxgba4aj_X-g=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/552
+
 ## [v.3.25.1107.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511072-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511072-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511072-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Register: BV Da Liễu bổ sung thêm thông tin khi quét CCCD tại KIOS lấy số thứ tự lại quầy tiếp nhận 
 ![](https://i.vgy.me/CZBiWU.png);
