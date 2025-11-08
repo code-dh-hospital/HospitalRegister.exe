@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1108.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511081-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  Lỗi - Register chỉ định CLS tự do - sử dụng phím tắt ALT+L không lưu được các giá trị trên lưới. - LOI - dh-issue- #613
+- 🐛:  ***Cập nhật lỗi khi sử dụng phím tắt không lưu được các trạng thái trên lưới cận lâm sàng.***
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/08/DESKTOP-2FLMTI6-explorer-2025-11-08-10h41p06.160.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/08/DESKTOP-2FLMTI6-%pn-2025-11-08-10h38p09.699.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/613
+
 ## [v.3.25.1108.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511080-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hỗ trợ xuất loại giấy tờ theo mô tả [THONG-TIN-BENH-NHAN/Xuat-Excel-Tom-tat-ho-so-benh-an.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONG-TIN-BENH-NHAN/Xuat-Excel-Tom-tat-ho-so-benh-an.md).
