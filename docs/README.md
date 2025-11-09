@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1109.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511090-NasDHSolutions.json)</sup></sup></sub>
+- 🐛:  LỖI - Đăng ký nhận bệnh tìm kiếm tên địa phương - chọn tên đia phương có trùng tên viết tắt thì lỗi khi Chọn - LOI - dh-issue- #455
+- 🐛:  ***Chỉnh lỗi khi chọn Xã, lại thể hiện sai thông tin.*** 
+- ![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/09/DESKTOP-2FLMTI6-explorer-2025-11-09-16h39p42.227.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/11/09/DESKTOP-2FLMTI6-explorer-2025-11-09-16h35p08.076.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/455
+
 ## [v.3.25.1108.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511081-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  Lỗi - Register chỉ định CLS tự do - sử dụng phím tắt ALT+L không lưu được các giá trị trên lưới. - LOI - dh-issue- #613
 - 🐛:  ***Cập nhật lỗi khi sử dụng phím tắt không lưu được các trạng thái trên lưới cận lâm sàng.***
