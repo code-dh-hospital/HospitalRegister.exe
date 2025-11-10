@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.25.1110.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511101-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Register: BV Da Liễu bổ sung thêm thông tin khi quét CCCD tại KIOS lấy số thứ tự lại quầy tiếp nhận 
+- 🐛: Fix lỗi không lấy được ngày cấp cccd đối với trường hợp bệnh nhân đã từng khám tại bệnh viện - bắt số thứ tự tại kios
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/548
+
 ## [v.3.25.1110.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511100-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Register: BV Da Liễu bổ sung thêm thông tin khi quét CCCD tại KIOS lấy số thứ tự lại quầy tiếp nhận 
 - 🐛: Fix lỗi không lấy được ngày cấp cccd đối với trường hợp bệnh nhân bắt số thứ tự tại kios
