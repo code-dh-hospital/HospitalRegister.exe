@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.25.1112.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511121-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Chưa load được tên bệnh viện đăng ký ban đầu đối với các ca bắt số thứ tự từ kios
+- 🐛: Khi refresh lại thì mất thông tin địa chỉ 2 cấp viết tắt, số CCCD, ngày cấp
+![](https://i.vgy.me/dY1mcx.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/548
+
 ## [v.3.25.1112.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511120-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Register bổ sung chức năng cảnh báo khi đăng ký tái khám BANT (BV Thốt Nốt)
 ![](https://i.vgy.me/nSjUwI.png)
