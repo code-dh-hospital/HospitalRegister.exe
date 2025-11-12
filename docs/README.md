@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.25.1112.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511122-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511122-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511122-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Tại form tiếp nhận: Nếu `dmbenhnhan.cmnd` người dùng để trống thì mặc định để `loai_giayto = 0`.
+![](https://lh3.googleusercontent.com/pw/AP1GczOasJTa4TmmUImHI5fyJxh3cm4IokH9IcmXMkkpr3k6iVAYYorLYmd8e5BzLXVeeIxpoEq0bJYS8-HphcfWG2-Z34iAMBNzAsnYF6xH616Zxh9vmsmHfTsBD6-ZQg6CT01GpOsJpituzZEjIfzgx6iH=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/522
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/552
+
 ## [v.3.25.1112.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511121-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Chưa load được tên bệnh viện đăng ký ban đầu đối với các ca bắt số thứ tự từ kios
 - 🐛: Khi refresh lại thì mất thông tin địa chỉ 2 cấp viết tắt, số CCCD, ngày cấp
