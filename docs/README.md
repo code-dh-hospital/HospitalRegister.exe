@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1124.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511240-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi khi tiếp nhận bệnh, nhấn F2 để lấy thông tin thông tuyến hiển thị sai loại giấy tờ.
+![](https://lh3.googleusercontent.com/pw/AP1GczPBsHDxqwxtG21moN4gTG5fhtM81EmxLoLB2nemoHSOEESgxlPjDucOK88bthdFBdrIzoiEgoD3Q-ttHLAIOGUj2mNVplmQaDvci_7tS-FitCOO8TZgTVIEkEvyUO-LPjZ0UqkSTcjUKeIa7G28yI7z=w1819-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/630
+
 ## [v.3.25.1121.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32511210-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Fix lỗi trường hợp đăng ký tại kioks -> nếu họ tên bệnh nhân đang trống thì cho chỉnh sửa
 ![](https://i.vgy.me/1fHRxC.png)
