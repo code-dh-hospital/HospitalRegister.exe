@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.25.1208.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32512083-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32512083-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32512083-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Bổ sung tham số hệ thống cảnh báo hoặc chặn bệnh nhân có BANT ngày đăng ký KCB #591
+![](https://i.vgy.me/O5CcOl.png)
+![](https://i.vgy.me/TpmX7x.png)
+![](https://storage.googleapis.com/calf-sure-sawfly.appspot.com/2025/12/08/DESKTOP-2FLMTI6-DH.UpModuleToDrive-2025-12-08-15h24p05.958.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/591
+
 ## [v.3.25.1208.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32512082-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32512082-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32512082-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  Yêu cầu - Hỗ trợ hàm tra cứu lịch sử KCB BHYT (BV Ô Môn) - YEUCAU - dh-issue- #549
 - ✨:  ***Cập nhật chức năng lấy thêm thông tin lịch sử KCB theo công văn mới trường hợp cổng không trả về, theo tài liệu: api/egw/Lskcb2025.*** 
