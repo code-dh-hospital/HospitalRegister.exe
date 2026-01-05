@@ -6,6 +6,21 @@
 
 #
 
+## [v.3.26.0105.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601050-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung mẫu chỉ định cận lâm sàng tự thiết kế theo Thông tư 32 theo mô tả [PHIEU-CHIDINH-KETQUA-CLS/Phieu-chi-dinh-can-lam-sang-Thong-tu-32.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/PHIEU-CHIDINH-KETQUA-CLS/Phieu-chi-dinh-can-lam-sang-Thong-tu-32.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczMkoWRsx-pxONVA6MChKL1KLT8T1xtsHPm-chB9pItg_hi3HpsTQc2l7qwL5METnx6fLeSoc5FeRNFsvq_WvtRZSIoPhNkb8ugG7YjqWIFSjkW5YrYwAa809h7ZkAg0NfUMb8Hzj6YgN5QaFR1Od23g=w869-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNIFFOgh0OJf7p6BWceVSUW-gT-Zb49ONlyIwCDojmLLl_MBAJU8vC-z1AJWP_bPtGgwmoIvPpzVVDNU53ymOVu-op6oeHSHzyB9OeDPBd4leG3UYgI6thZ6VSIG61_4MAsZWbtN2-LZQLkdAWbU8lU=w869-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP-2bRZQTZLR1zcwq7MGafQNW-43m07yDt1x9wclms4rRHbCj5VI9EYFAv3V6N9mCIOtg7p0rt06bby-hwrafRP-b9T8hmcgnuTefBuDDqtW1d9cqDpdMRYCLCllIlDNVwNLn-s_7ywEEhpODj507OX=w869-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNVg3nIHDBjAiyibsDhSSodRCg3fC8ulLbCTTfo-6d_pgG5MYGsbY6QVwccMb0Jx-hbC59JeNy93WsXpOX_jkrL3oIQtepCsuKkmTobss485x02nCAQdxTnXByuo0Kr2bQsD7q8YjI2XU5lg4zT-Lj2=w873-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPHKCrkWcegGKl9ZhdwHKrexHneHk0LQ242sLL4A1ayATDqeyskjsDn_h1Tz4AaQ3Crynh9q1rDmhlQELFiSXQcGzmcOK2kAz6Jz6aCaFceOvYdDD0fgAgBP4OMc0wd5tbVFqs3BCnniLA1N-WnaVZC=w871-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNWjuSj_wEJ3xakRIT34E_1fK0rcc_Q74YTXIEZaho7sQOtQAZd8N7-H8-b64n_3G3k_Aj8V10hS342Wsv8uUnG_r3Q1Mi105Vq2mG3-Rdy0F8qgDTx-Se3h-c9wrK6lV3bDReHXjWKO8HdCqM3QyZ0=w869-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNo9xjoacS4jT39Ci6vMSOihrR9X6Bbn8e1hsmBREp0goX_V7N1h4zBEl2ivbHy4Lj6PuUeJwJyIG-LFkxqcpMafHhbaBv7p6OwQ4oGqNXmdMUnSpL8eQ82xhVZcBUpcF-NZ5ZZOtCnAx3lHP073-r9=w869-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczO0jZfzs3b8ltHWOwUaegD_QTLJAMhA2fZQDeL8Z0oAL-RZnextMG8gqGXEKRrPQHSWUhAwufhJJ4XJMQjm1LFrYPxIxEQiev3CqwYBu_4brbzhmAkz5U57vC0Wr7ktNbqj4KD8JBxwSjpAH0PsDvKk=w866-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMic2VLvrPW5962W9z9K9EfTniEIp68kxaz0QeNJ8z7iMGvYPR-SOwbno01x7ouJBYB5yN-48Ts-ox9w7dxu3_C7QfKjA-ifIUg_JkG0TC-7YNJX9_O3bleTTq53qjB0Lus6tANkgervxzzmDe0fA8b=w871-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPRfkKggPWo3iYckm9zTOicU-bY6r_iVFxwcThB8OfudDwx_bzEZok6KNVriHt_e1XCY_DwtCuJE0BeL78_Q0TqzwkFv6jlrU2M464NZ7fILK4XuiAwmVy6cCGPTdm7mBoxGMVYCyUlx6ZTcJ5FWj0C=w879-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/620
+
 ## [v.3.25.1224.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32512240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32512240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32512240-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng Ràng buộc kiểm tra thông tin và cập nhật CCCD khi lập phiếu nghỉ ốm theo mô tả [BHXH/Giai-nghi-om.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH/Giai-nghi-om.md).
