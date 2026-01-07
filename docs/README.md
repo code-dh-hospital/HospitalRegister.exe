@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0107.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601070-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung cảnh báo khi có thông tin CCCD nhưng chưa chọn loại giấy tờ.
+![](https://lh3.googleusercontent.com/pw/AP1GczOoglb-2m_W3a4kMeRB_aL1SqCQSkrSeEflSNoXerZJbQcbqx6jL3Ww-poFRvmGX7eqOjNQ-2XuwyWKrNTd7-SQbOXMbBgcMRkzzQ1jkBt5R-AV_tgCtfKgsfn5XLMeFWn7-4s75G3DhXN3-tnRMCpW=w1233-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNI-MKXOKSKZCtsW864krx6a6osZmxgME80HMmlOW18Vi72XjMqbOYC_0KdztE1O7EZpV-bzKjtu3if--b2SyCdTBp0PnWI3fjnRBDT4Pt1vkPqBF_FZOrGeI4DkxmPm1nN3GuUg5FXRKaxuQ1KuvGY=w832-h831-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP0rbrgql7EgUCaF7aR_GM-3yYlQ6IzhhMN3TZie-cRwK-dyUBT0DjEmj52ULcfI8gP-Ztfw5qPv5vHF-qlMBMy-H0QygbRzkrQ-y3_Yvuiwq83CYkT-6csSxsQVvfL7lUh8dC9OpF5hitXHbE0Empx=w832-h831-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/634
+
 ## [v.3.26.0105.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601051-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601051-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601051-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung mẫu chỉ định cận lâm sàng tự thiết kế theo Thông tư 32 theo mô tả [PHIEU-CHIDINH-KETQUA-CLS/Phieu-chi-dinh-can-lam-sang-Thong-tu-32.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/PHIEU-CHIDINH-KETQUA-CLS/Phieu-chi-dinh-can-lam-sang-Thong-tu-32.md).
