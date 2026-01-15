@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0115.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601151-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601151-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601151-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi chức năng in toa khi toa thuốc có thuốc nghiện/hướng thần.
+![](https://lh3.googleusercontent.com/pw/AP1GczNU7DOItniNXQkDCO6M-Ud6lX4c4W58tcfdbAv_yyJHYkAg5_lQPRjLH8_j6Hirgs1OfxixEhXUHbvO8q2HO90YB3dsVClVnAxiuCmV2zyEvQBPnf34ol8A3aQaTeBiqoxiU8y5dx9lnLB0W2ESs6Uw=w610-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczN3acmuJ1TWc-VkAr6g_LiPwqJhnbfg2vx9UncW3UcyAyHUYO3nDytbAniIDtj03qzJuowVBpPZ3FpOIZAHoM7tn_M_FbeO40471S5mMrnUrVP8xkN6GetHrkdXUPOp7BC9XCUP9GFSLkL6CVqi0Wrt=w610-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/595
+
 ## [v.3.26.0115.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601150-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Prescription: - Hiệu chỉnh thông tin không chỉnh được đối tượng #693
 ![](https://i.vgy.me/ypxs26.png)
