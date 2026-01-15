@@ -6,6 +6,44 @@
 
 #
 
+## [v.3.26.0115.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601153-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601153-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601153-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Register,Prescription: Bổ sung chức năng lập giấy báo tử, bệnh nhân tử vong ngoại viện #427
+	- Cập nhật:
+		- Cập nhật cấu trúc:
+
+		![](https://i.vgy.me/445VJH.png)
+
+		```sql
+			ALTER TABLE current.psdangky
+			  ADD COLUMN IF NOT EXISTS ngaytv TIMESTAMP(0) WITHOUT TIME ZONE,
+			  ADD COLUMN IF NOT EXISTS matttv VARCHAR(20),
+			  ADD COLUMN IF NOT EXISTS matgtv VARCHAR(20),
+			  ADD COLUMN IF NOT EXISTS nguyennhantv VARCHAR(500),
+			  ADD COLUMN IF NOT EXISTS maicdgp VARCHAR(20),
+			  ADD COLUMN IF NOT EXISTS kqcdoangp VARCHAR(500),
+			  ADD COLUMN IF NOT EXISTS maicdtv VARCHAR(20),
+			  ADD COLUMN IF NOT EXISTS khamnghiemtt NUMERIC(1,0),
+			  ADD COLUMN IF NOT EXISTS tvtruoc24h VARCHAR,
+			  ADD COLUMN IF NOT EXISTS quyen VARCHAR(20),
+			  ADD COLUMN IF NOT EXISTS so VARCHAR(20),
+			  ADD COLUMN IF NOT EXISTS tvtdcapcuu NUMERIC(1,0) DEFAULT 0;
+		```
+
+		- Module Register:
+
+		![](https://i.vgy.me/IfsGBx.png)
+
+		- In giấy báo tử theo TT25:
+
+		![](https://i.vgy.me/avNqb9.png)
+
+		- In giấy báo tử theo TT24:
+
+		![](https://i.vgy.me/qdK1DC.png)
+		![](https://i.vgy.me/sGEXVM.png)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/427
+
 ## [v.3.26.0115.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601152-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601152-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601152-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Register,Prescription: Bổ sung chức năng lập giấy báo tử, bệnh nhân tử vong ngoại viện #427
 	- Cập nhật:
