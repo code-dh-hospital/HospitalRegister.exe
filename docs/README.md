@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0116.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601161-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601161-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601161-NasDHSolutions.json)</sup></sup></sub>
+- ✨: YÊU CẦU - Register/Prescription Bổ sung nút load danh sách tab Danh sách bệnh nhân đăng ký
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/651
+- 📕: Thêm nút làm mới danh sách bệnh nhân đăng ký trong ngày
+
+![](https://i.vgy.me/SnAANl.png)
+
 ## [v.3.26.0116.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601160-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung Phiếu chỉ định xét nghiệm TT32 lấy cấu hình khi tham số `xn.sudungmauchuan = 8`.
