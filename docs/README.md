@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0120.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601200-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601200-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601200-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Tắt parameters panel các mẫu trang in tự thiết kế.
+![](https://lh3.googleusercontent.com/pw/AP1GczOWPu_6cQEZEOjzPngk2d_ExK1nsFofUcjX_cC-RdY57H-LIWXsTcrEsESkK6tjLbyc8W6AzbIC3vo0bE9hTjEtVeKoOA7j2M14HQgBS44xtZkzwOiwmNWnDz9eTKYusYU5fvKGPY5ZDI4z2p9Zo9pR=w1353-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/TOLAPTRINH/issues/105
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/620
+
 ## [v.3.26.0116.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601164-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601164-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601164-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi in phiếu chỉ định CLS TT32.
