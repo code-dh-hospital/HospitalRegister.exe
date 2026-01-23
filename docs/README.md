@@ -6,6 +6,20 @@
 
 #
 
+## [v.3.26.0123.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601230-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Register/Prescription: Khi in phiếu 01 không cho chỉnh phiếu nghỉ ốm #711
+	- Cập nhật: khi đã in phiếu 01, không cho cập nhật phiếu nghỉ ốm
+
+	![](https://i.vgy.me/UOnZSB.png)
+	![](https://i.vgy.me/MYiVAD.png)
+
+	- Khi cần cập nhật: mới khóa phiếu 01
+
+	![](https://i.vgy.me/xcLddj.png)
+	![](https://i.vgy.me/idITxX.png)
+	
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/711
+
 ## [v.3.26.0122.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601221-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601221-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601221-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Tắt parameters panel XtraReport.
