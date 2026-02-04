@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0204.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602040-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Fix lỗi xét nghiệm TT32 chưa cấu hình mẫu chuẩn không hiển thị mẫu chung theo loại.
+![](https://lh3.googleusercontent.com/pw/AP1GczPbwWIFA3zPCsmHw_128tRhpntl1iMwMN-gqZf6asAqVNKTKT1oCVx4p2BUKPD48F2TFrODMVowgN8EYJo8cEI96nxuBvwKP0Vmc8J08fcnaZ0ipKXBTSA4ivQRa53KAX246LNa6FdRBtYAKSZqjlG3=w1663-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/620
+
 ## [v.3.26.0129.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601291-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601291-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32601291-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Cải tiến/cập nhật các phiếu chỉ định cận lâm sàng TT32 và bổ sung mẫu TT32 đối với các cận lâm sàng BHYT không thanh/thu phí:
