@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0205.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602051-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602051-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602051-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi không tách được phiếu xét nghiệm đối với xét nghiệm không cấu hình mẫu chuẩn.
+![](https://lh3.googleusercontent.com/pw/AP1GczP5taRTc2hOlQARwY0cUg2QZuiX99TqsQ8oeBIguYvWhAdepnlTNC1gNRdHA9jlUzzNrcg-lNGD6VYSOItQznUf8QV1WPfb14dJoUYKa6d9-nmsx3oNbD-4E-un6Y1Rhz_s8e5eRebOoK300R9AlqAU=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMI9CcEXB1YH4phpGDwDtnQkynKZ9A-cevyobwl0XKq6piNxRGlAE1Rh2SBjWRLWzRiNG0Rf8riAJfMBlbfY2ujfQynugGBgmIpOnyFjJEeAJvfGU1cZydKE1BkcI6IbyHxijIt_BqBN74lC0XbRZz7=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMXh_TfX9OPvlETA-UWCiFOy2lXim4B4QxgDCZRx5W_RGb3wSmxsHwXPdyXRR5IfJSO0rZubXSuz2pxufeSkAzyxxg5SiKXqrQ2o0xxfRmlynrI6qn4vaom2OiciJUxuHuuUzt4ma_PG0O-jhbmC2DA=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/620
+
 ## [v.3.26.0205.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602050-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Xem hoặc in toa thuốc lấy sai thông tin para taikhamngaykhi, thiếu thông tin liều dùng, lỗi tachtoa #733
 ![](https://i.vgy.me/kutMu3.png)
