@@ -6,6 +6,20 @@
 
 #
 
+## [v.3.26.0211.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602110-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Điều chỉnh
+1. Cập nhật tiêu đề tên loại (điều chỉnh size) mẫu chỉ định xét nghiệm chung (MS: 16/BV-02) thông tư 32.
+![](https://lh3.googleusercontent.com/pw/AP1GczOW8Vd-8noSy9hH65tuVYfeEEcNNJd3OqTTKbY2nlurOsmId0YsKyiNuKN6X8be8NQ52pSj60r107_XrZdQgs-pmKsLjACgizfKtVpE_Km6nz5bHo02cwx7mdrhm4HuzYxlTo6FYEcje24PJ4qLSfxf=w1654-h879-s-no-gm?authuser=0)
+
+2. Sửa lỗi mẫu không gom phiếu khi chọn cấu hình gom phiếu theo chi phí đối tượng
+![](https://lh3.googleusercontent.com/pw/AP1GczPn6GxFdtlTSG1ylkdnCol-ssVvOq62yDbvfkz0BUx8zGQ-w47XVpE4iD0o0jvR_Pk87S5d6CNgWQhBmtwf6kD9uCHLveB-zKUV35Dlbit8_aXQ9hn3MwvRFJvQTO1Jgh-CLlOi_-G9V90XemVn3HS5=w1654-h879-s-no-gm?authuser=0)
+
+3. Gom phiếu chỉ định nội bộ các kho ngoài TT32 (khi chọn cấu hình phiếu chỉ định TT32).
+![](https://lh3.googleusercontent.com/pw/AP1GczMbJlExOPyEsKUgy6nV5JaC_99lfcugOMj8H2rdy4qLi-ewktZH_R3d21wrrWk5s0oWOC_wmGyaseU0lkAAJA9d5YsFiYptFfmRq8V61hU9nTzM0MeM_hBor5zoNLuDNjk5VdEtoTwOCnpa9QyOQiSs=w1654-h879-s-no-gm?authuser=0)
+
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/672
+
 ## [v.3.26.0209.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602090-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung/cập nhật mẫu chỉ định cận lâm sàng theo Mô tả: [PHIEU-CHIDINH-KETQUA-CLS/Phieu-chi-dinh-can-lam-sang-Thong-tu-32.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/PHIEU-CHIDINH-KETQUA-CLS/Phieu-chi-dinh-can-lam-sang-Thong-tu-32.md)
