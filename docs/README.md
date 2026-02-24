@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0224.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602240-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi Giấy Nghỉ ốm Mẫu 07 không hiển thị cột `BENHICD10` và `TENBENHICD10`.
+![](https://lh3.googleusercontent.com/pw/AP1GczNoG-RwMGqm_SZuxSLlo4We5byrtfQtCYXwsLJTQxH0bzVbDDzn7m41cddDP3U8QrvmwN-05LhwGv8Zln4k7tD2SBswdbv_dxoCQz-1Sn_piVtYG1VC96_V4Y9EwOEhmAsGWJHfCN9FUlKhmhljBTjE=w1585-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/746
+
 ## [v.3.26.0223.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602232-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602232-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602232-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Register: Bổ sung chức năng SMS BV Da Liễu TPCT #683
 - ✨: Mở khóa chức năng theo key `sms`
