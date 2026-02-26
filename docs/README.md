@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0226.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602261-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602261-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602261-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi
+1. In phiếu chỉ định CLS chung nhiều loại CLS còn hiển thị tiêu đề CÔNG KHÁM:
+![](https://lh3.googleusercontent.com/pw/AP1GczOyKAvUM3DowlFRYg8hWbsnnJ9bvs7uyclqM63wn-WsWIEE57GuBq5QG_d3HcWMILsS9AUzBSykCm7z9YyxBKrrxqlWLZojbNxhxq4umdksa70UQDvv4YtrtdkU1vozTi0JxOPlLiyxkCQ_72ylu9qY=w1654-h879-s-no-gm?authuser=0)
+2. Bệnh nhân cấp cứu không hiển thị chữ KHẨN và không check Cấp cứu ở tất cả các mẫu nội bộ, mẫu chuẩn:
+![](https://lh3.googleusercontent.com/pw/AP1GczOsYri8MZ4yZiPOmgZnYwHgtRSLrJakh-MwepT4VzilG8T2lQsCVn_EAgJBKx95dGKEXiq2CLQmTKQEQ7B4PLTSkQtKQ54jvviNnSiVpidnU41xDwFchuVfbemEps3nvcAsJt6SmPlHKjtiHuqCi_Qu=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOLYJe5n3SbLjlP3dQkYM6XxaAoqSNN0bg36UucnXgGRyRnizJ8IFrV-CTayI5zAF9moeSrQKhCOIuwfwNPAztCg4vVLm_iWfw2TpVyM0srNGpkXGc5aZBeDrQocO1dd3Jag8zIXDerHGbSs6UKQugT=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/672
+
 ## [v.3.26.0226.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32602260-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi
