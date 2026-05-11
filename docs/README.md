@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0511.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605110-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Register, Prescription: Phiếu nghỉ ốm có thêm chữ ký số của bác sĩ và người đại diện đơn vị #744
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/744
+- 📗: Trêm form phiếu nghỉ ốm bổ sung thêm nút `In - Ký Số`
+- 📗: Bổ sung thêm 2 params `manv_bacsi` và `manv_nguoidaidien` chứa giá trị mã nhân viên của bác sĩ và người đại diện để xác định chữ ký trên phiếu nghỉ ốm.
+![](https://i.vgy.me/XYILSo.png)
+![](https://i.vgy.me/P3EQZs.png)
+![](https://i.vgy.me/i1MlZa.png)
+
 ## [v.3.26.0428.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32604280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32604280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32604280-NasDHSolutions.json)</sup></sup></sub>
 - 🐛:  GIẤY NGHỈ ỐM - Parameter.ngayky_ngaylap hiển thị không đúng ngày khi cấp Lần 2 trở đi- LỖI
 - 🐛:  ***Chỉnh lỗi lấy sai ngày lập khi lập nhiều phiếu nghỉ ốm.***
