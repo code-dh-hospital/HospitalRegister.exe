@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0514.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605140-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Register, Prescription: Phiếu nghỉ ốm có thêm chữ ký số của bác sĩ và người đại diện đơn vị #744
+![](https://i.vgy.me/VAciWX.png)
+![](https://i.vgy.me/2T2Tov.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/744
+
 ## [v.3.26.0513.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605130-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Register chức năng đăng ký tái khám bệnh án ngoại trú ngày cho phép chỉnh phường xã trống (BV Ô Môn) #848
 - 🐛: Lỗi - Register Register chức năng tái khám bant khi chỉnh phường xã phần mềm ghi nhận sai mã xã.
