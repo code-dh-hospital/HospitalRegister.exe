@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.0515.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605150-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Chuẩn hóa dữ liệu Unicode (NFC) trước khi lưu: Họ tên, địa chỉ, nơi công tác.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/851#issuecomment-27893
+
 ## [v.3.26.0514.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605143-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605143-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605143-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Register, Prescription: Phiếu nghỉ ốm có thêm chữ ký số của bác sĩ và người đại diện đơn vị #744
 - 🐛: Register, Prescription khi tài khoản người đại diện không có chữ ký số nhưng tài khoản bác sĩ có chữ ký số thì phần mềm báo cả 2 tài khoản không có chữ ký số và không in được CKS
