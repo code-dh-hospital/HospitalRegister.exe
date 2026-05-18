@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0518.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605181-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605181-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605181-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Register: Chức năng nhận bệnh bằng excel lỗi kiểm tra dữ liệu mã xã không tồn tại, đăng ký khám báo lỗi #857
+![](https://i.vgy.me/FkdFc7.png)
+![](https://i.vgy.me/gcwRR4.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/857
+
 ## [v.3.26.0518.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605180-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605180-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32605180-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Register: BANT tái khám ghi nhận sai tuyenxml = 1 khi tham số thetrongtinh =3 (TYT Nhơn Ái) #852
 ![](https://i.vgy.me/PCDMvl.gif)
