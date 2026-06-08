@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0608.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606081-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung tự động tính chỉ số BMI trên form thông tin sinh hiệu theo mô tả: [THONG-TIN-BENH-NHAN/Chi-so-BMI.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONG-TIN-BENH-NHAN/Chi-so-BMI.md). Chỉ số BMI tự thay đổi khi cân nặng hoặc chiều cao thay đổi giá trị.
+![](https://lh3.googleusercontent.com/pw/AP1GczMWvFz_QB4ROT0SBx8vmT1nTNClnpbiBMPGZ6yqt23DxHTA6BOUXuWMDn4LJxNI_YXIi-rl3SJMxEu3WwcYtMZQUbkdvBaYW2evI4kfCDFHbyC7SKhYoooUHtDaLm8Sb6jC_x_K2_2EFC3aZF8pfkXb=w1250-h841-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMrHKEMwwLlzH9w1_JJA7uQwjhWEojRRdy1d2OjhNZBaoggxDx1Hi7sjYfW9eieRnNxUyazia6ZJ6ErPb7W-g9agMUZS4E4etwWpKYuV1S4crFeaz4LU3BUUYXkhc4_PAo1Ra5dr9Vmk5o19GNPGDGp=w1250-h845-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMl--1-LU72qnHbph7myHC8YppEWot2j2owxL2s_8tAfLfH43sVD2EZFj0LNC2PaYetVmL0LgjeYtWM8a3uofawN2UF-QJpXPhUKWe907pYNcGn5HV9Kbw_C8QZcozhSLdp3TYJ89TcTh5V-5lW0gOi=w1529-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/777#issuecomment-29272
+
 ## [v.3.26.0608.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606080-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Register: Lỗi khi nhận bệnh bằng file excel đăng ký KSK hợp đồng (TTYT Đức Linh) #885
 ![](https://i.vgy.me/EooU8n.png)
