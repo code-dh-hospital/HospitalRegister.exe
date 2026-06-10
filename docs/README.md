@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.0610.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606100-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Lỗi - Register: Lỗi khi nhận bệnh bằng file excel đăng ký KSK hợp đồng (TTYT Đức Linh) #885
+- 🐛: Phần mềm còn lỗi khi ngày sinh có khoản cách ở giữa (ví dụ: 20/ 1/2020)
+- 🐛: Kiểm tra Số điện thoại và lưu số điện thoại thì bỏ tất cả khoản trắng và giới hạn số ký tự từ 10-15 ký tự (theo QĐ 1551)
+- 🐛: Đề xuất có hiện nhiều lỗi trên file excel cùng lúc
+![](https://i.vgy.me/PYGtBy.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/885
+
 ## [v.3.26.0608.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606081-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung tự động tính chỉ số BMI trên form thông tin sinh hiệu theo mô tả: [THONG-TIN-BENH-NHAN/Chi-so-BMI.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONG-TIN-BENH-NHAN/Chi-so-BMI.md). Chỉ số BMI tự thay đổi khi cân nặng hoặc chiều cao thay đổi giá trị.
