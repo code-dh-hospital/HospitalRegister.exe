@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0612.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606120-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chặn không cho lưu CLS khi đã có ghi nhận ngày in phiếu.
+![](https://lh3.googleusercontent.com/pw/AP1GczPPZBGjHCBeRNPsq-4DC_HxLgcC9K3mV-RSXBuBXo_OCPZxmaRXTfc9A82IMmA75pM5xyV257bsPmikip5_PYtFvh90aMGgY9CkBdSE3aFW-cIiJ3BHH2IOaBsVoLbsdUYOd7pa8oCHOGLmwVcWr0su=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/797#issuecomment-29378
+
 ## [v.3.26.0610.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606100-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Lỗi - Register: Lỗi khi nhận bệnh bằng file excel đăng ký KSK hợp đồng (TTYT Đức Linh) #885
 - 🐛: Phần mềm còn lỗi khi ngày sinh có khoản cách ở giữa (ví dụ: 20/ 1/2020)
