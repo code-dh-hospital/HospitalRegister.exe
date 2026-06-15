@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0615.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606150-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Register: Nhận bệnh bằng file excel thêm các thông tin nhập từ file excel và kiểm tra tính hợp lệ trên excel (TTYT Đức Linh) #794
+- ✨: Bổ sung file excel mẫu
+![](https://i.vgy.me/8WiLMt.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/794
+
 ## [v.3.26.0612.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606121-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Register: Nhận bệnh bằng file excel thêm các thông tin nhập từ file excel và kiểm tra tính hợp lệ trên excel (TTYT Đức Linh) #794
 - 🐛: ![](https://i.vgy.me/EH7odP.png)
