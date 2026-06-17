@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.26.0617.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606170-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Register: Nhận bệnh bằng file excel thêm các thông tin nhập từ file excel và kiểm tra tính hợp lệ trên excel (TTYT Đức Linh) #794
+- 🐛: File mẫu chưa có cột nhập nội dung tiền sử gia đình, tiền sử bệnh tật, chưa lưu được ngày cấp nơi cấp các loại giấy tờ:
+![](https://i.vgy.me/0CuY3M.png)
+![](https://i.vgy.me/D2ZZuR.png)
+- 🐛: Chưa kiểm tra tính hợp lệ của các loại giấy tờ và số giấy tờ:
+![](https://i.vgy.me/jkfqhK.png)
+- 🐛: Bổ sung hướng dẫn nhập liệu các trường thông tin dữ liệu trong file excel mẫu. Mục tiêu: khách hàng có thể nhìn vào file excel là có thể nhập các thông tin. Các trường phải có liên quan với các thông tin thể hiện trên form
+![](https://i.vgy.me/eKCWAF.png)
+![](https://i.vgy.me/wg6zg0.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/794
+
 ## [v.3.26.0616.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32606160-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Register: Nhận bệnh bằng file excel thêm các thông tin nhập từ file excel và kiểm tra tính hợp lệ trên excel (TTYT Đức Linh) #794
 - ✨: Bổ sung file excel mẫu
