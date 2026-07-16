@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0716.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607160-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi nhận bệnh Có giấy chuyển nhưng thể hiện Trái tuyến.
+![](https://lh3.googleusercontent.com/pw/AP1GczOMOA0AGcJ-UJWVu-MWsxTQWed9b84zDCCVIUKavke_lOSO6NjV433d33nClxEEDXvqvxvVdF5QN-Lvhy2MmYl62kTb20KItGDOjAt5ExD2jF9bxJoOhqVUOB5Nu_BzbhnoTefxYDZxpk8-wre2WM_n=w1166-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP3-XodE3yqoYQ4JGAhR5WLwWA4hGIXseQXkLsN56tLWjpEuDKbZsHasftAEeUWGzbjiFfSylAjgo5c2yVmfaxjRZ4y5WGPNxp0L7msY-XFffJTdPae3D0JyUcOI_UdrKyl8MNcBqRCvoXCSPoI7eel=w1267-h424-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/923#issuecomment-30822
+
 ## [v.3.26.0709.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607090-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Presscription hỗ trợ thêm mẫu Giấy cam kết chấp nhận thủ thuật, phẫu thuật, gây mê hồi sức theo thông tư 32
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/827
