@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0721.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607210-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Bổ sung chức năng cấu hình và danh mục loại KCB theo mô tả [XML130/QD4570/ma_loai_kcb_QD1804.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_loai_kcb_QD1804.md).
+![](https://lh3.googleusercontent.com/pw/AP1GczP3rwEyQPUMbkj8W-3O2FiSOezIyD2BT-3EbkBMPS8hYMeoprYLMymMFpPoku0d5qjY2k8-ndLTJF-gWS0xssGDkiIW4xQoxRNFJbZNxPonqyQkpc4N7eAm-udBEM8DS1yuKFYobhtlFm1v9K-gCEnb=w1374-h845-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/839#issuecomment-31029
+
 ## [v.3.26.0716.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607160-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607160-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607160-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi nhận bệnh Có giấy chuyển nhưng thể hiện Trái tuyến.
