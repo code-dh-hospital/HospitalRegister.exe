@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0723.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607230-NasDHSolutions.json)</sup></sup></sub>
+
+- ✨: Ghi nhận thông tin trái tuyến chức năng tái khám bệnh án ngoại trú theo mô tả: [XML130/Nghi-dinh-188-2025/Thuc-hien-Nghi-dinh-188-2025-Kham-benh-trai-tuyen.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/Nghi-dinh-188-2025/Thuc-hien-Nghi-dinh-188-2025-Kham-benh-trai-tuyen.md)
+![](https://lh3.googleusercontent.com/pw/AP1GczNhBxyHMoUI89CrXw-ZJ9zpN8A9luLWF9gizKtBIPxOfNK-DEw6hQO_rfm9VEA_CISIbmnMuBv5gY4OQT3kBS58u-iQ-jjHFHFW6Vkn9PZew2MqW4a0Ym79TaaE4jQ4jLCdmvyQHxsawJR2hBkbmyaR=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/852#issuecomment-31238
+
 ## [v.3.26.0721.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607210-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607210-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607210-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Bổ sung chức năng cấu hình và danh mục loại KCB theo mô tả [XML130/QD4570/ma_loai_kcb_QD1804.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/XML130/QD4570/ma_loai_kcb_QD1804.md).
