@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0724.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607240-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi `Chưa nhập mã nơi giới thiệu` khi vào chức năng `Đăng ký BANT`.
+![](https://lh3.googleusercontent.com/pw/AP1GczPQLee4JeYTmPJwXdtdgoujTtbXrKvOZJIIhiwhLLc8AOwqqFIsgiyKUd50jdITPHZRm2Si2I2pX6FVmZY_A31agY2KBpYWscwbkaime7Rw-B1qnkqJx_En_2VAkKCa_vP64tjPWTIe9EkNL47S2BPn=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/852#issuecomment-31362
+
 ## [v.3.26.0723.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607232-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607232-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607232-NasDHSolutions.json)</sup></sup></sub>
 - ✨:  cầu - Cấp key HIS và Buiding các module triển khai cho Phòng khám đa khoa Thánh Tâm (TP. HCM (tỉnh Bình Dương cũ))- Yêu
 - ✨:  ***Bổ sung key theo Hợp đồng: `74167`.***
