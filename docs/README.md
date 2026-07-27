@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0727.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607270-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi
+1. Chức năng đăng ký bệnh nhân khi chỉnh bệnh nhân đã đăng ký -> chọn bỏ qua báo lỗi
+![](https://lh3.googleusercontent.com/pw/AP1GczOSMphcvkG0AxCzGDYhzqccKAD15yANyf0BQHDybHEUQCKtCUcxxfS_aYCvdYbKOwjLbgK-_PPxDe7EeU1DemdjYllWLDmf06qDM6DOrdUhTq6S8Jy6BUvKYZHzM0eqJzPnBk7Em58X9roYgkj2ADsH=w1661-h879-s-no-gm?authuser=0)
+2. Chức năng đăng ký tái khám bệnh án nhập mã nơi giới thiệu -> Register không bắt nhập thông tin chuyển tuyến
+![](https://lh3.googleusercontent.com/pw/AP1GczNyryTCxchuH1Q3kLLuyIX-PPhz032G4Fbnsc1BnL0ZsLzMneyxo8sRA9TK48gICKDDPpOgO0ZeOPhQoHdN16Jr6ONQNh-vIg3yMlh0BX8mSOX0BeQnfQ6VN5oQZ6Ot5ox9xFMQIAgEbyzR7vLIhxpc=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/852#issuecomment-31420
+
 ## [v.3.26.0724.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32607240-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi `Chưa nhập mã nơi giới thiệu` khi vào chức năng `Đăng ký BANT`.
