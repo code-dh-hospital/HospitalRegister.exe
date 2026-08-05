@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0805.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608050-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sổ thủ thuật, phẫu thuật khi xuất báo cáo tháng bị quá chậm gây treo hệ thống.
+![](https://lh3.googleusercontent.com/pw/AP1GczOP-S3-XT9suAR01zN1CRIMbKzJ4cgs4w4wXEKsoWvRvd_4I5C7lqJm6iSW2nBRz_vHStIphyeCImbnt4Y8hacUp6FqQ8EJRyDd-WUxTNVXuxHN5xdW7EJACitzzpKvbY2JDyI494hj6k90NH_zhfsV=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/959#issuecomment-31849
+
 ## [v.3.26.0803.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608030-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608030-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608030-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Register hỗ trợ chức năng nhập sinh hiệu khi đăng ký tái khám bệnh án ngoại trú (PK Thiên Ân) #764
 ![](https://i.vgy.me/HJREC6.png)
