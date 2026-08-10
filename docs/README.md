@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.0810.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608101-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608101-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608101-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Register: Đăng ký BANT 1 bệnh án hiển thị 2 dòng (BV Thốt Nốt) #964
+![](https://i.vgy.me/lab8o9.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/964
+
 ## [v.3.26.0810.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608100-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Register hỗ trợ chức năng nhập sinh hiệu khi đăng ký tái khám bệnh án ngoại trú (PK Thiên Ân) #764
 - 🐛: Thông tin Sinh hiệu không lưu được vào quá trình điều trị của bệnh nhân dẫn đến khi khám bệnh phần mềm vẫn bắt nhập lại sinh hiệu.
