@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0810.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608100-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608100-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608100-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Register hỗ trợ chức năng nhập sinh hiệu khi đăng ký tái khám bệnh án ngoại trú (PK Thiên Ân) #764
+- 🐛: Thông tin Sinh hiệu không lưu được vào quá trình điều trị của bệnh nhân dẫn đến khi khám bệnh phần mềm vẫn bắt nhập lại sinh hiệu.
+![](https://i.vgy.me/oHLmZG.png)
+![](https://i.vgy.me/uc0RyS.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/764
+
 ## [v.3.26.0805.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608050-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sổ thủ thuật, phẫu thuật khi xuất báo cáo tháng bị quá chậm gây treo hệ thống.
