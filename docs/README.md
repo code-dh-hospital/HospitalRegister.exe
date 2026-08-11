@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0811.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608111-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Register: Hỗ trợ chức năng nhận bệnh KSK bằng CCCD (TTYT Đức Linh) #829
+- 🐛: Lỗi tự biết hoa toàn bộ địa chỉ
+- 🐛: Không chỉnh được ngày cấp CCCD
+- 🐛: Quét CCCD xong bấm phím F2 trên bàn phím không lấy được thông tin
+- 🐛: Phường xã không lấy được thông tin khi xem lại thông tin đã đăng ký:
+![](https://i.vgy.me/AhyYXS.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/829
+
 ## [v.3.26.0811.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608110-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Register: Hỗ trợ chức năng nhận bệnh KSK bằng CCCD (TTYT Đức Linh) #829
 ![](https://i.vgy.me/0xjoI8.png)
