@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0812.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608121-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Register khi bấm vào nút in thẻ #968
+- 🐛: hiện thông báo khi cấu hình tham số nhưng không tìm được file `thekhambenh.doc`
+![](https://i.vgy.me/apdoCc.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/968
+
 ## [v.3.26.0812.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608120-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Register: Hỗ trợ chức năng nhận bệnh KSK bằng CCCD (TTYT Đức Linh) #829
 - 🐛: Phần mềm chưa lấy được ngày cấp CCCD và không cho chỉnh ngày cấp CCCD khi mới đăng ký
