@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.0814.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608141-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Register/Laboratory: Chưa hiển thị được CLS con với đối tượng người nước ngoài #966
+![](https://i.vgy.me/vtEo7U.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/966
+
 ## [v.3.26.0814.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608140-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hỗ trợ công văn 2746/BHXH-CNTT sử dụng ĐDCN/CCCD thay thế mã số BHXH - Hệ thống thông tin giám định BHYT. Bổ sung chức năng cấu hình `[Sử dụng mã kiểm tra thông tuyến cổng BHYT]` theo mô tả [BHXH-THONGTUYEN/Ma-kiem-tra-thong-tuyen-cong-BHYT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH-THONGTUYEN/Ma-kiem-tra-thong-tuyen-cong-BHYT.md). Lưu ý: hiện tại test trên cổng đào tạo => cổng chưa cập nhật.
