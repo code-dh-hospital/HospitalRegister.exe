@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0817.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608170-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi kiểm tra thông tuyến bằng CCCD.
+![](https://lh3.googleusercontent.com/pw/AP1GczNWTeVAZs4oUReqM9mC6PoB9CORaLB9W67KQzFI7VaR4e2gRMullyemf8DgFCZN7-WVjsNjc6l99fMFIABsA-gvDWZVJ3zm7WjBn4vtITiVHqDUvkqesLkBFAR30WGrQ0GWRvaFucH7OpTMtJ5Xjr0F=w1654-h879-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczM9P6te0K7nR2Z8W8oAWd3rB4Fw2O4VuR9nU0pNShnfpt_hQbjRsFFyswVOuQ7SuIQUj2DdswceB2EiuetcL89s654soP0lXstZQkcN_I0pOz5ADPGvSANAkFVQUKgqhk8KMXa7feOMouAGfqkDlBqE=w1654-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/862#issuecomment-33149 (hdhiswork/YEUCAU#862)
+
 ## [v.3.26.0814.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608142-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608142-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608142-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: Hỗ trợ công văn 2746/BHXH-CNTT sử dụng ĐDCN/CCCD thay thế mã số BHXH - Hệ thống thông tin giám định BHYT. Bổ sung chức năng cấu hình `[Sử dụng mã kiểm tra thông tuyến cổng BHYT]` theo mô tả [BHXH-THONGTUYEN/Ma-kiem-tra-thong-tuyen-cong-BHYT.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH-THONGTUYEN/Ma-kiem-tra-thong-tuyen-cong-BHYT.md). Lưu ý: hiện tại test trên cổng đào tạo => cổng chưa cập nhật.
