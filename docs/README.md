@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.26.0826.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608260-NasDHSolutions.json)</sup></sup></sub>
+
+- 🐛: Sửa lỗi
+1. Lỗi đăng ký bệnh nhân đối tượng thu phí bắt nhập thông tin thẻ bhyt
+![](https://lh3.googleusercontent.com/pw/AP1GczMZG2CX0-6N9nTBnJkzrk34_qEriJIcCkVWLixG9hN7FpHflByj3U-4gkoa-GqDG6Ro3htGVUU5NG6t_M2O_De5CZNOdQYEWJ_0T33AbC7_ocIzQHTlYcxuD_s9285lGBYklcM84fNbQJPdfJYDXAeE=w1661-h879-s-no-gm?authuser=0)
+2. Lỗi không cảnh báo được thông tin bệnh nhân bị sai khi kiểm tra thông tuyến
+![](https://lh3.googleusercontent.com/pw/AP1GczOCvkFQZuwdI0epcAnc8h0Ft24pjANtnHNUhrFKCUVuAPaYdiv7S0Ygsg3iA4MK5PN2aaLx6V5UTuOh6CUnkin5BcruhhYkK4i9hZDgXkJzHBze9p6SiL0CycxsS_Ku88xAoKAsRirIp8Qprv-juw5S=w1661-h879-s-no-gm?authuser=0)
+3. chọn bỏ qua không cập nhật thông tin -> phần mềm không lưu được thông tin đăng ký bệnh nhân
+![](https://lh3.googleusercontent.com/pw/AP1GczN5IcODojlBRgnEEH9vA-DJ6rcyS76iZCgv8twujSGGmpvhmiT5zJ5h5dWwyp03VO9l9lByINVqj0hawS9vc7ORIcjKvP6EuaEKvc1aLbKuF5rdKp5RdAfrhK3R4ACZP0Us6K0JYMY2vboHc7sNIDJi=w1661-h879-s-no-gm?authuser=0)
+4. Phần mềm lưu bắt buộc cập nhật thông tin thẻ -> mặc dù thông tin bệnh nhân không có thông tin nào bị sai.
+![](https://lh3.googleusercontent.com/pw/AP1GczMcdk5fUHS8Br3TE5iLySENPQ_pjdwY97wr68dxQQLTVzMfvxVhTFoxlEsk913nsViI7NfvM8bzcxDtctUBpsrLVBd3PphXm5At_bAvg5SSsc2sR3f1frBcz6HE9rpP_XuEyYuWih--ZQ-lmgVCEu_0=w1661-h879-s-no-gm?authuser=0)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/862#issuecomment-33874 (hdhiswork/YEUCAU#862)
+
 ## [v.3.26.0824.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608240-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi chức năng kiểm tra thông tuyến
