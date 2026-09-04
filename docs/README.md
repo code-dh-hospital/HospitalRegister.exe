@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0904.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609040-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung gọi SetPara số điện thoại (dienthoai, dienthoaibn) và các chỉ số sinh hiệu (chieucao, cannang, vongnguc, vongdau, huyetap, mach, nhietdo, nhiptho) trong phương thức inPhieuKhamCustomize (FrmDangKyBH.cs) và btnDangKy_Click (FrmDangKyBANT.cs) khi in phiếu số thứ tự khám bệnh Register_PhieuKhamBenh qua XtraRPT.Xtra.Print.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/904
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/16
+- 📕: Trên form Đăng ký KCB (FrmDangKyBH) và Đăng ký BANT (FrmDangKyBANT), khi người dùng nhập thông tin sinh hiệu, số điện thoại và thực hiện lưu hoặc in phiếu, hệ thống tự động truyền các tham số này vào mẫu in phiếu khám bệnh / số thứ tự phòng khám.
+- Thực hiện theo mô tả [BỔ SUNG CÁC PARAMETER SINH HIỆU VÀ SỐ ĐIỆN THOẠI VÀO PHIẾU KHÁM BỆNH (SỐ THỨ TỰ)](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONG-TIN-BENH-NHAN/Thong-mo-ta-bo-sung-para-sinh-hieu-va-sdt-phieu-stt-kham-benh.md)
+  ![](https://images-worker.tlt40.workers.dev/i/01a06a46-4a03-78bd-9d92-f383fe0e31ce)
+  ![](https://images-worker.tlt31.workers.dev/i/01a06a43-af08-75e9-8e15-fc3233f4a6f0)
+
 ## [v.3.26.0826.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32608260-NasDHSolutions.json)</sup></sup></sub>
 
 - 🐛: Sửa lỗi
