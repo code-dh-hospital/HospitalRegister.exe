@@ -6,6 +6,21 @@
 
 #
 
+## [v.3.26.0908.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609080-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HospitalRegister & HosReg.Code] Mở rộng tiếp nhận thẻ BHYT 17 ký tự (mã số CCCD) trên FrmDangKyBH, tự động phân tách 6 ô nhập liệu với ô cuối (txtBH6) chứa 6 chữ số thay vì 4 chữ số, tương thích song song cả thẻ 15 ký tự và 17 ký tự.
+- ✨: [HospitalRegister & HosReg.Plus] Mở rộng tiếp nhận thẻ BHYT 17 ký tự trên FrmHieuChinhBN (Hiệu chỉnh thông tin bệnh nhân), nâng MaxLength txtBHMoi6 từ 4 lên 6, cập nhật split_BHMoi, split_BH và hàm kiểm tra hợp lệ ktTheBHYT hỗ trợ cả thẻ 15 và 17 ký tự.
+- ✨: [HospitalRegister & HosReg.Code] Mở rộng tiếp nhận thẻ BHYT 17 ký tự trên FrmChinhNhapVien (Chỉnh nhập viện), nâng MaxLength txtBHMoi6 từ 4 lên 6, cập nhật split_BHMoi auto-detect 15/17 ký tự.
+- 🐛: [HospitalRegister & HosReg.Code] Mở rộng MaxLength từ 15 lên 17 ký tự trên FrmNghiOm và FrmNghiDuongThai khi nhập số thẻ BHYT liên quan.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/909
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/25
+- 📗: Mở rộng trường ma_the_bhyt, mathebhyt lên varchar(17) trong current.psdangky, current.benhan, current.thebhyt, current.thebhyt_chitiet, current.psbhyt, current.thongtinksk, xml130.bang01, xml130.bang02.
+- 📕: Tiếp đón / Đăng ký khám BHYT (FrmDangKyBH, FrmNghiOm, FrmNghiDuongThai, FrmHieuChinhBN, FrmChinhNhapVien).
+- Thực hiện theo mô tả [Mở rộng hỗ trợ mã thẻ BHYT 17 ký tự (CCCD)](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONG-TIN-BENH-NHAN/Thong-mo-ta-Mo-rong-ho-tro-ma-the-BHYT-17-ky-tu-CCCD.md)
+
+![](https://images-worker.tlt40.workers.dev/i/01a07f0f-6a88-75df-9d3f-5519df9a8612)
+![](https://images-worker.tlt37.workers.dev/i/01a07f15-70bd-7b34-a6d6-b5aa1e3a1fa7)
+![](https://images-worker.tlt33.workers.dev/i/01a07f11-332c-7292-8740-11ad3b851c5f)
+
 ## [v.3.26.0905.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609050-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [HospitalRegister & HosReg.Code] Tích hợp `LibraryApp.ClsBanQuyen.ApplyMainForm` tại `FrmMain_Load` (ngay sau khi hiển thị FrmHome và trước khi đăng nhập) và `ApplyChildForm` trong constructor của `FrmHome`, tự động đổi tiêu đề thành `DH.HIS Register` (loại bỏ tiền tố DHG trên tab Home), nạp ảnh nền `background_dh.png` ngay từ bước khởi động ban đầu, cập nhật bản quyền DH và tự động quét ẩn nhóm Trợ giúp (ebRegister.Groups["trogiup"]) khi `DHHIS_BANQUYEN=1`.
 - 🐛: Khắc phục việc menu Trợ giúp chưa bị ẩn trên Janus ExplorerBar và ảnh nền FrmHome phải đợi sau khi đăng nhập mới hiển thị.
