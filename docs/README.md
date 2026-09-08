@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.0908.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609081-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Lỗi - Register Nhập phần trăm miễn giảm Khi chỉ định CLS tự do không lấy đúng số % cần nhập mà tự nhảy về 0 #988
+![](https://i.vgy.me/sE09Rb.png)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/988
+
 ## [v.3.26.0908.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609080-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [HospitalRegister & HosReg.Code] Mở rộng tiếp nhận thẻ BHYT 17 ký tự (mã số CCCD) trên FrmDangKyBH, tự động phân tách 6 ô nhập liệu với ô cuối (txtBH6) chứa 6 chữ số thay vì 4 chữ số, tương thích song song cả thẻ 15 ký tự và 17 ký tự.
 - ✨: [HospitalRegister & HosReg.Plus] Mở rộng tiếp nhận thẻ BHYT 17 ký tự trên FrmHieuChinhBN (Hiệu chỉnh thông tin bệnh nhân), nâng MaxLength txtBHMoi6 từ 4 lên 6, cập nhật split_BHMoi, split_BH và hàm kiểm tra hợp lệ ktTheBHYT hỗ trợ cả thẻ 15 và 17 ký tự.
