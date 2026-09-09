@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.0909.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609090-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Hỗ trợ chức năng tra cứu tiền miễn cùng chi trả theo phụ lục công văn 1839/CNTT-PM
+![](https://i.vgy.me/rU4KQS.png)
+![](https://i.vgy.me/gG7Ywe.png)
+![](https://i.vgy.me/3sWBhE.png)
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/900
+
 ## [v.3.26.0908.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609081-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Lỗi - Register Nhập phần trăm miễn giảm Khi chỉ định CLS tự do không lấy đúng số % cần nhập mà tự nhảy về 0 #988
 ![](https://i.vgy.me/sE09Rb.png)
