@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.0915.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609150-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Yêu cầu - Register: Chức năng nhận bệnh bằng file excel bổ sung thêm 1 số thông tin
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/902
+- 📗: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/REGISTER/BO_SUNG_THONG_TIN_CHUC_NANG_NHAN_BENH_EXCEL.md
+- 📕: Bổ sung thông tin cho file excel mẫu cho chức năng nhận bệnh excel. thêm danh mục cứng của 2062 sử dụng chung
+
+![](https://i.vgy.me/DXfcCs.png)
+![](https://i.vgy.me/WzqCSo.png)
+
 ## [v.3.26.0911.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609112-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609112-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609112-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Register & HosReg.Code] Mở rộng phân hệ Đăng ký tiếp đón tiếp nhận đối tượng trẻ em dưới 6 tuổi (madt = 03, bhyt = 2) hỗ trợ mã thẻ BHYT 17 ký tự (mẫu định danh CCCD mới); đồng bộ HosReg.Code.dll mới từ dhlibraries.
 
