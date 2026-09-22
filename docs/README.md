@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.0922.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609220-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609220-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609220-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: [HosReg.Code] Sửa lỗi chức năng "Kiểm tra thông tuyến" (FrmDangKyBH) không cảnh báo khi không xác định được "ngày đủ 5 năm liên tục" BHYT của bệnh nhân, dẫn đến bỏ sót dữ liệu khi tiếp nhận lại bệnh nhân cũ đã có lịch sử khám.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1015
+- 📕: Mở Tiếp nhận -> Đăng ký khám bệnh -> nhập bệnh nhân cũ -> bấm "Kiểm tra thông tuyến". Nếu Cổng BHXH không trả về "ngày đủ 5 năm liên tục", hệ thống hiển thị cảnh báo thay vì bỏ trống âm thầm như trước.
+- Thực hiện theo mô tả [Mo-ta-Canh-bao-thieu-ngay-5-nam-lien-tuc.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH-THONGTUYEN/Mo-ta-Canh-bao-thieu-ngay-5-nam-lien-tuc.md)
+
 ## [v.3.26.0915.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609150-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609150-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609150-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Yêu cầu - Register: Chức năng nhận bệnh bằng file excel bổ sung thêm 1 số thông tin
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/902
