@@ -6,6 +6,21 @@
 
 #
 
+## [v.3.26.0924.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609240-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Rebuild module EXE Register đồng bộ phiên bản mới, hỗ trợ xem lịch sử bệnh đầy đủ toa thuốc và cận lâm sàng cho hồ sơ BANT đợt và BANT ngày.
+- 🐛: Sửa lỗi hiển thị lịch sử khám chữa bệnh phân hệ Register (BV Thốt Nốt) không lấy được đơn thuốc và kết quả cận lâm sàng của bệnh án ngoại trú.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1014
+- ☑: https://github.com/tolaptrinh/Mo-ta-he-thong/blob/main/BANT/Mo-ta-Sua-loi-lich-su-benh-khong-lay-duoc-toa-thuoc-BANT.md
+- 📗: Đồng bộ liên kết với HosReg.DataAccess.dll, HosReg.BusinessLogic.dll và HosReg.Code.dll.
+- 📕: Phân hệ Tiếp đón / Đăng ký khám - Chức năng Xem lịch sử bệnh nhân hoạt động chính xác theo quy trình BANT đợt và BANT ngày.
+
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1014/debug-image-prescription-frmlichsubenh-bantdot.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1014/debug-image-prescription-frmlichsubenh-bantngay-chuyenphong.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1014/debug-image-prescription-frmlichsubenh-bantngay.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1014/debug-image-register-frmlichsubenh-bantdot.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1014/debug-image-register-frmlichsubenh-bantngay-chuyenphong.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1014/debug-image-register-frmlichsubenh-bantngay.png)
+
 ## [v.3.26.0923.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609230-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Đóng gói lại `HosReg.Plus.dll` mới nhất — sửa lỗi chức năng "Hiệu chỉnh thông tin bệnh nhân" (`FrmHieuChinhBN.cs`, nút "KTTT") không cảnh báo khi kiểm tra thông tuyến thất bại hoặc không trả về "ngày đủ 5 năm liên tục" BHYT.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1015
