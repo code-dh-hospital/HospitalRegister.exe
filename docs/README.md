@@ -6,6 +6,32 @@
 
 #
 
+## [v.3.26.0924.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609241-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Register & HosReg.Code] Mở rộng phân hệ Đăng ký tiếp đón tiếp nhận đối tượng trẻ em dưới 6 tuổi (madt = 03, bhyt = 2) và đối tượng BHYT (madt = 01, bhyt = 1) hỗ trợ mã thẻ BHYT chuẩn 15 và 17 ký tự (mẫu định danh CCCD mới); đồng bộ HosReg.Code.dll mới từ dhlibraries.
+
+- 🐛: [Register & HosReg.Code] Khắc phục triệt để lỗi lọt mã thẻ 16 ký tự khi có check Có thẻ, chặn đúng cảnh báo 'Thẻ bảo hiểm không đúng độ dài (15 hoặc 17 ký tự).' cho cả hai trường hợp có check và không check Có thẻ.
+
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1001
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/27
+
+- 📗: [Register & HosReg.Code] Tương thích trường dữ liệu current.psdangky.mathe và current.dmthebhyt.mathe.
+
+- 📕: [Register & HosReg.Code] Tiếp nhận bệnh nhân tại phân hệ Đăng ký KCB, kiểm tra chặn thẻ 16 ký tự và lưu thành công thẻ BHYT 15 hoặc 17 ký tự cho đối tượng trẻ em và BHYT.
+
+- Thực hiện theo mô tả [Đăng ký khám chữa bệnh đối tượng trẻ em dưới 6 tuổi thẻ BHYT 17 ký tự](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/THONG-TIN-BENH-NHAN/Mo-ta-Dang-ky-KCB-doi-tuong-tre-em-the-BHYT-17-ky-tu.md)
+
+![](https://lh3.googleusercontent.com/pw/AP1GczPNb-oigQQ_mpaCjD5WQi3QEM7-GlH5IXvhJPYYkdVucXuOYRdPj5OU_SNieedno7OALdfz7GbnWs9EaA7autjoqwRcHOS4VSRiUKoJr5Rl0m3ohkIjXCj6Ac5G2gOcoS1gmb5tsjmL9azuAElXe47M=w1703-h912-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczP5Vd76JD3wFKiiMa7ic3zFDCL6ispDjhdltjKu3eDxMUZb7vOQ3mdqApQmgT0bxnVpQ-CjCqVCODO2z6sVxecAQXWlmMWFwR7z4-rPj9_j-UMRoXVL_sJ0TyxKUYC-mmJh4BjS9U4Fsc5tjKgY4y-4=w1704-h912-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczODN3JBSXcuPAtQ0vI0CflvbYRcrQ4aGx-euzL3d5-pQVQNkWabwg2nSBKzDYjrZyvMPmwjRqhqwXI5JR3G3TsJHvBvJ_Uh41z8TW1sPtZxZjpI3QkwOKnfRErolGHaeEE09kwfuBpCNLDOMXoYrq5g=w1066-h640-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczMoZanJGME84AlOBKIQ1VQzEu9yOn803_iGjtJhe2b5KYgkkI5yU3aTzkTJY_djpistC-agd9HZ_g1ztH5Msnxy2B_kR9siujGhqhjEs6sy3lQGsjeKFTM1jr2VcmH1fDwZEeAg2Fr6Y2HCPzg71Gyk=w1814-h973-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczPYIROcsJZhfvUfn8yqvssbrlkoXhunNjY1SjJRiWPHVt9i3hGUa_7o8_2kunOdBBNBcqmh483HgZyQWaIowZ-a0pwGwLR9w2m_LmT_qepRAXe2-O-aTnYLn75tB29hBFjl2waYCX7ibIgQ3TvFwBmf=w1824-h973-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNX8eTg18eSRCuPiSeVQY55YvPCu5XG9MOI5J08sr7VkM9O96VO_9I1s2ym6F7it_qTHsWtQBNWuGI5mB0LNe9iu4QwUYEvcOhexVOjy75qrIHbbPPzyZFN8GjeW2GJVG9-IKog7PmKL8zr9O5fFa-a=w1837-h973-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczNhk4aZAfJhk9OThLiDOBJeAyLllsDRdAM4yMDcMvBYJtMR9lBrnHLG110DAOU8VfYSSpoyq61ZwqTYEcUnPmiEDaNXP7BsxTxOleZFbiseyrD5uED4Q2DnjrVCwCSc-LlE-pUlhsKzvtbUpob5ci64=w1814-h973-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczO5O0daXjvARmx0O8MLJHUx3lyHyZMnUhTipVRS_N8-OUVTDAovr4iC4nM2py6XFm-yUom-g2q1zv4gebeXLts0yUglPoT3EnKRAzaCe2tjF3lEEAIjmbTKJBNbOLiLTtC-ggkHVyToXzmGauVmVbOM=w1826-h973-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOoZqreK6Xs3cNNkFZy7vMDcJU9Vnt7MmQ7dV2elnJULvU_9QjvzU-6hpS7ielcURR6O4slI_tZjBrtQQQq66mKx7f43t1L_z17a-7RKesPgcslvYMCI3nJ-UuZy2xa0M5oTjRxxx2VCxPs49dJwO7l=w1911-h970-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczO_uqQlaSNzZQpr5d__aXLzFXQBivxLG_nXF0S57IF-QHAsYJIpRQKhYoG03EeEiBsCvxUZoWlKDrCcbdk-Ro8D5_jzBHypwheG9rG_Y0uz25tz61YJKeqZZTQDzEm8ziNMaqJJ5a0DM8a7w4cQf8IH=w1825-h973-s-no-gm?authuser=0)
+![](https://lh3.googleusercontent.com/pw/AP1GczOEpG6UyfeqGHRQyAUMYTjHqBR-HYYUqjmu5h2qTW1kEg1VwqatyQ4alZUZBZeVqoWftmhrloPuBJQMMoXn-rwphaB6jSn9f6-VesM4wqg8wJiRJpzg1Hsd7x-_WNztz-fgO0aWRC4SgZ8AlGV45rhN=w1822-h973-s-no-gm?authuser=0)
+
 ## [v.3.26.0924.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609240-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Rebuild module EXE Register đồng bộ phiên bản mới, hỗ trợ xem lịch sử bệnh đầy đủ toa thuốc và cận lâm sàng cho hồ sơ BANT đợt và BANT ngày.
 - 🐛: Sửa lỗi hiển thị lịch sử khám chữa bệnh phân hệ Register (BV Thốt Nốt) không lấy được đơn thuốc và kết quả cận lâm sàng của bệnh án ngoại trú.
