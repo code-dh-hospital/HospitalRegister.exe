@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.0925.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609250-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Đóng gói HosReg.Code đã sửa - nhận bệnh nhân cũ, kiểm tra thông tuyến và bấm 'Đồng ý khám tiếp' đã gán 'ngày đủ 5 năm liên tục' từ Cổng BHXH.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1015
+- 📕: Thực hiện theo mô tả [Mo-ta-Canh-bao-thieu-ngay-5-nam-lien-tuc.md](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/BHXH-THONGTUYEN/Mo-ta-Canh-bao-thieu-ngay-5-nam-lien-tuc.md)
+
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-kttt-chedoxem-ngay5nam-1.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-kttt-chedoxem-ngay5nam-2.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-register-frmdangkybh-khamtiep-ngay5nam-1.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-register-frmdangkybh-khamtiep-ngay5nam-2.png)
+
 ## [v.3.26.0924.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609241-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Register & HosReg.Code] Mở rộng phân hệ Đăng ký tiếp đón tiếp nhận đối tượng trẻ em dưới 6 tuổi (madt = 03, bhyt = 2) và đối tượng BHYT (madt = 01, bhyt = 1) hỗ trợ mã thẻ BHYT chuẩn 15 và 17 ký tự (mẫu định danh CCCD mới); đồng bộ HosReg.Code.dll mới từ dhlibraries.
 
