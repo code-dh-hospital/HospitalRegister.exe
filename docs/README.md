@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.26.0925.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609251-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609251-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609251-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HosReg.Code/HosReg.DataAccess] Bổ sung UNION current.qtdieutri trong PsDangKyAdapter.GetLichSuBenh cho BANT đợt hiển thị đầy đủ các lần khám trong đợt điều trị lên lưới dgLichSuBenh.
+- 🐛: [HosReg.DataAccess/HosReg.Code] Sửa lỗi font chữ Mojibake trên Register (chuẩn hóa literal tiếng Việt có dấu Chẩn đoán, Thuốc, Cận lâm sàng, Nữ, Tháng, Ngày; lưu chuẩn UTF-8 with BOM); Bỏ điều kiện AND CLS.kho <> 'KB' trong GetLSCLS khắc phục lỗi làm mất các dịch vụ công khám (như KH231, KH235); Sửa GetLSThuoc và GetLSCLS hỗ trợ lấy toàn bộ chi phí đợt theo maba.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1014
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1014#issuecomment-44080 (hdhiswork/LOI#1014)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1014#issuecomment-44084 (hdhiswork/LOI#1014)
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/1014
+- 📗: Bỏ điều kiện lọc kho <> 'KB' trên current.dmcls và current.chidinhcls; kết hợp truy vấn current.qtdieutri.
+- 📕: Giao diện Lịch sử bệnh trên Register hiển thị đúng font tiếng Việt, nạp đủ dịch vụ công khám và toàn bộ chi phí theo đợt BANT. Chi tiết: https://github.com/code-dh-hospital/Mo-ta-he-thong/blob/main/BANT/Mo-ta-Sua-loi-lich-su-benh-khong-lay-duoc-toa-thuoc-BANT.md
+
+![](https://i.vgy.me/SujB4K.png)
+
 ## [v.3.26.0925.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609250-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Đóng gói HosReg.Code đã sửa - nhận bệnh nhân cũ, kiểm tra thông tuyến và bấm 'Đồng ý khám tiếp' đã gán 'ngày đủ 5 năm liên tục' từ Cổng BHXH.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1015
