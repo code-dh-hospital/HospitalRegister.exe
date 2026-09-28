@@ -6,6 +6,23 @@
 
 #
 
+## [v.3.26.0928.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609280-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Register] Chuẩn hóa và tái sử dụng hàm `ktInput` cho toàn bộ các khâu kiểm tra (tiền kiểm tra file Excel trước khi tải lên lưới, nút 'Kiểm tra thông tin' và 'Đăng ký khám'); tối ưu danh mục `lstDmDoituong` nạp 1 lần bộ nhớ; dẫn giá trị sai vào thông báo lỗi khi không khớp danh mục (mã dân tộc, nghề nghiệp, nguồn chi trả, đối tượng KSK, mã đối tượng KCB); bổ sung hướng dẫn 4 case cho `maloaigiayto` (1: CCCD 12 số, 2: CMND 9 số, 3: Định danh 12 số, 4: Hộ chiếu) trên file mẫu Excel và ValidateCMND; chuẩn hóa kiểm tra SĐT (10 số, đầu 0), ngày sinh/ngày cấp (dd/MM/yyyy); chuẩn hóa câu hỏi xác nhận Đồng ý / Bỏ qua.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/902
+- ☑: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/REGISTER/BO_SUNG_THONG_TIN_CHUC_NANG_NHAN_BENH_EXCEL.md
+- 📗: current.dmdoituong, current.pskhamsuckhoe, current.dmbenhnhan
+- 📕: Cập nhật DLL liên quan: HosReg.Code. Tái sử dụng `ktInput` kiểm tra an toàn theo cột; dẫn rõ giá trị sai khi kiểm tra `madt`, `madantoc`, `manghe`, `nguon_chitra`, `doituong`, `maloaigiayto`; xử lý bắt lỗi chặt chẽ khi nhập mã loại giấy tờ dạng số thập phân (1.1) hoặc không hợp lệ; thêm hướng dẫn 4 case cho `maloaigiayto` đúng theo `ValidateCMND` trong file mẫu Excel (dòng 0 và sheet huong_dan); tiền kiểm tra file Excel có cảnh báo và xác nhận trước khi nạp lưới.
+![](https://i.vgy.me/wSlvX2.png)
+![](https://i.vgy.me/mrJQKb.png)
+- 🐛: [Register] Hỗ trợ hiển thị và trích xuất đầy đủ mã số BHXH 12 ký tự từ thẻ BHYT 17 ký tự trên Phiếu nghỉ ốm và Phiếu nghỉ dưỡng thai.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1019
+- ☑: https://i.dh-his.com/code-dh-hospital/dh-hos-code-only/issues/37
+- ☑: https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/REGISTER/Mo-ta-Register-Ho-tro-ma-so-BHXH-12-ky-tu-phieu-nghi-om.md
+- 📗: current.nghiom, current.nghiduongthai (trường sobhxh varchar(50))
+- 📕: Vào chức năng Phiếu nghỉ ốm / Phiếu nghỉ dưỡng thai, số BHXH được tự động trích xuất đủ 12 chữ số từ thẻ BHYT 17 ký tự.
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1019/debug-image-register-frmnghiduongthai-sobhxh-12kytu.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1019/debug-image-register-frmnghiom-sobhxh-12kytu.png)
+
 ## [v.3.26.0927.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609270-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609270-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609270-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: [HosReg.Code] Hỗ trợ hiển thị và trích xuất đầy đủ mã số BHXH 12 ký tự từ thẻ BHYT 17 ký tự (bỏ hardcode cắt 10 ký tự sMaThe.Substring(5, 10), tăng txtSoBHXH.MaxLength = 20) trên Phiếu nghỉ ốm (FrmNghiOm) và Phiếu nghỉ dưỡng thai (FrmNghiDuongThai).
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1019
