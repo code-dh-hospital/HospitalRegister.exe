@@ -6,6 +6,25 @@
 
 #
 
+## [v.3.26.0929.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609290-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609290-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609290-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HosReg.Code/HosReg.DataAccess] Bổ sung UNION current.qtdieutri trong PsDangKyAdapter.GetLichSuBenh cho BANT đợt hiển thị đầy đủ các lần khám trong đợt điều trị lên lưới dgLichSuBenh.
+- 🐛: [HosReg.Code/HosReg.DataAccess] Sửa lỗi xem lịch sử bệnh bị kẹt ở bệnh nhân cũ trên Register (FrmBenhNhan.cs, FrmDangKyBH.cs) bằng cách giải phóng frmLichSuBenh.Dispose() trước khi khởi tạo Form mới; trong load_LichSuBenh và FrmLichSuBenh_Load đồng bộ đúng strMaBn sang txtMabn.Text; Sửa lỗi font chữ Mojibake trên Register (chuẩn hóa literal tiếng Việt có dấu Chẩn đoán, Thuốc, Cận lâm sàng, Nữ, Tháng, Ngày); Bỏ điều kiện AND CLS.kho <> 'KB' trong GetLSCLS nạp đầy đủ dịch vụ công khám (KH231); Lấy toàn bộ chi phí đợt theo maba.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1014
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1014#issuecomment-44080 (hdhiswork/LOI#1014)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1014#issuecomment-44084 (hdhiswork/LOI#1014)
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1014#issuecomment-44730 (hdhiswork/LOI#1014)
+- ☑: https://i.dh-his.com/tolaptrinh-ai/loi/issues/1014
+- 📗: Bỏ điều kiện lọc kho <> 'KB' trên current.dmcls và current.chidinhcls; kết hợp truy vấn current.qtdieutri.
+- 📕: Giao diện Tiếp nhận / Cấp thẻ khám bệnh trên Register khi click xem lịch sử bệnh nhiều bệnh nhân liên tiếp luôn load chính xác thông tin bệnh nhân đang chọn; hiển thị đúng font tiếng Việt, nạp đủ dịch vụ công khám và toàn bộ chi phí theo đợt BANT. Chi tiết: https://github.com/code-dh-hospital/Mo-ta-he-thong/blob/main/BANT/Mo-ta-Sua-loi-lich-su-benh-khong-lay-duoc-toa-thuoc-BANT.md
+![](https://i.vgy.me/SujB4K.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1014/debug-image-prescription-frmlichsubenh-bantdot.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1014/debug-image-prescription-frmlichsubenh-bantngay-chuyenphong.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1014/debug-image-prescription-frmlichsubenh-bantngay.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1014/debug-image-register-frmbenhnhan-doibenhnhan-thanhcong.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1014/debug-image-register-frmlichsubenh-bantdot.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1014/debug-image-register-frmlichsubenh-bantngay-chuyenphong.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1014/debug-image-register-frmlichsubenh-bantngay.png)
+
 ## [v.3.26.0928.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609280-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609280-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609280-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Register] Chuẩn hóa và tái sử dụng hàm `ktInput` cho toàn bộ các khâu kiểm tra (tiền kiểm tra file Excel trước khi tải lên lưới, nút 'Kiểm tra thông tin' và 'Đăng ký khám'); tối ưu danh mục `lstDmDoituong` nạp 1 lần bộ nhớ; dẫn giá trị sai vào thông báo lỗi khi không khớp danh mục (mã dân tộc, nghề nghiệp, nguồn chi trả, đối tượng KSK, mã đối tượng KCB); bổ sung hướng dẫn 4 case cho `maloaigiayto` (1: CCCD 12 số, 2: CMND 9 số, 3: Định danh 12 số, 4: Hộ chiếu) trên file mẫu Excel và ValidateCMND; chuẩn hóa kiểm tra SĐT (10 số, đầu 0), ngày sinh/ngày cấp (dd/MM/yyyy); chuẩn hóa câu hỏi xác nhận Đồng ý / Bỏ qua.
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/902
