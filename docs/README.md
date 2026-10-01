@@ -6,6 +6,20 @@
 
 #
 
+## [v.3.26.1001.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610011-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610011-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610011-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Đồng bộ logic kiểm tra Bệnh án ngoại trú (isBANT) theo dòng bệnh nhân đang chọn trên lưới tại form Hiệu chỉnh thông tin bệnh nhân (FrmHieuChinhBN - HosReg.Plus): khắc phục triệt để lỗi khi mở form từ Menu hệ thống (Cấu hình hệ thống > Hiệu chỉnh thông tin) nếu không check Cấp cứu thì sau khi bấm Lưu phần mềm tự động biến thành Cấp cứu.
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1025
+- 📗: Không thay đổi cấu trúc bảng CSDL; chuẩn hóa đồng bộ 3 bảng current.bnnoitru (tinhtrangvv), current.psdangky (tinhtrang), current.khambenh (tinhtrang): khi không check Cấp cứu (Bình thường) lưu tinhtrangvv='0', psdangky.tinhtrang=1, khambenh.tinhtrang=1; khi check Cấp cứu lưu tinhtrangvv='1', psdangky.tinhtrang=0, khambenh.tinhtrang=0.
+- 📕: Register, Prescription > Cấu hình hệ thống > Hiệu chỉnh thông tin (FrmHieuChinhBN) & Bệnh án ngoại trú (FrmBenhAnNgoaiTru): lưu chính xác trạng thái Cấp cứu / Bình thường cho cả bệnh nhân BANT và bệnh nhân ngoại trú thường. Đóng gói EXE HospitalRegister.exe cùng HosReg.Plus.dll.
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1025/debug-image-prescription-frmbenhanngoaitru-capcuu-bant.gif)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-1025/debug-image-hosreg-plus-frmhieuchinhbn-capcuu-bant.gif)
+
+<div align="center">
+
+# Nhật ký thay đổi</div>
+
+<div align="center" style="font-size:xx-small">(✨: Tính năng, chức năng mới. 🐛: Chỉnh lỗi. ☑: Giải quyết công việc, issue. 📗: Nghiệp vụ, thao tác. 📕: Mô tả cơ sở dữ liệu) </div>
+
 ## [v.3.26.1001.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610010-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung tự động điền ngày 5 năm liên tục BHYT khi KTTT và nạp thông tin bệnh nhân cũ
 - 🐛: Khắc phục triệt để lỗi mất ngày 5 năm, cảnh báo sai lỗi mạng khi bấm Bỏ qua và không lưu được thông tin thẻ BHYT
