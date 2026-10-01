@@ -6,6 +6,23 @@
 
 #
 
+## [v.3.26.1001.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610010-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610010-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610010-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung tự động điền ngày 5 năm liên tục BHYT khi KTTT và nạp thông tin bệnh nhân cũ
+- 🐛: Khắc phục triệt để lỗi mất ngày 5 năm, cảnh báo sai lỗi mạng khi bấm Bỏ qua và không lưu được thông tin thẻ BHYT
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1015
+- 📗: Bảng current.psdangky trường ngay5nam
+- 📕: Đóng gói EXE Register với các DLL cập nhật: HosReg.DataAccess, HosReg.Code, HosReg.Plus
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-register-frmdangkybh-khamtiep-ngay5nam-1.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-register-frmdangkybh-khamtiep-ngay5nam-2.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-kttt-chedoxem-ngay5nam-1.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-kttt-chedoxem-ngay5nam-2.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmdangkybh-prescription-canhbao-ngay5nam.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-ketquathongtuyen-thanhcong.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-mokhoasua.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-tudongdien-ngay5nam.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-treatment-frmhieuchinhtt-ngay5nam-1.gif)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1015/debug-image-hosreg-frmhieuchinhbn-kttt-ngay5nam.gif)
+
 ## [v.3.26.0930.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609301-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609301-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32609301-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Khử trùng lặp danh sách tái khám Bệnh án ngoại trú (FrmDangKyBANT): bỏ hoàn toàn LEFT JOIN current.khambenh và các cột sinh hiệu thừa trong GetBNBenhAnNgoaiTru (HosReg.DataAccess), triệt tiêu tận gốc lỗi nhân đôi dòng bệnh nhân khi lần khám trước có từ 2 phòng khám trở lên.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1025
