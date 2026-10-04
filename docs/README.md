@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1004.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610040-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Cập nhật tiếp đón nhận bệnh bằng Excel: lưu dữ liệu tiêm chủng vào pskhamsuckhoe và tự động tra cứu mã xã từ địa chỉ
+- 🐛: Khắc phục lỗi kiểm tra ràng buộc tiêm chủng/sinh hiệu khi để trống và lỗi lưu mặc định 0 thay vì NULL
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/902
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/FOR_HIS_BUCKET/issues/issue-902/debug-image-register-frmnhanbenh-bo-rang-buoc-sinh-hieu.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/FOR_HIS_BUCKET/issues/issue-902/debug-image-register-frmnhanbenh-bo-rang-buoc-tiem-chung.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/FOR_HIS_BUCKET/issues/issue-902/debug-image-register-frmnhanbenh-luu-pskhamsuckhoe-tiem-chung.png)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/FOR_HIS_BUCKET/issues/issue-902/debug-image-register-frmnhanbenh-tu-dong-tim-maxa-dia-chi.png)
+
 ## [v.3.26.1001.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610011-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610011-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610011-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Đồng bộ logic kiểm tra Bệnh án ngoại trú (isBANT) theo dòng bệnh nhân đang chọn trên lưới tại form Hiệu chỉnh thông tin bệnh nhân (FrmHieuChinhBN - HosReg.Plus): khắc phục triệt để lỗi khi mở form từ Menu hệ thống (Cấu hình hệ thống > Hiệu chỉnh thông tin) nếu không check Cấp cứu thì sau khi bấm Lưu phần mềm tự động biến thành Cấp cứu.
 - ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1025
