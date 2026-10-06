@@ -6,6 +6,12 @@
 
 #
 
+## [v.3.26.1006.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610060-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610060-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610060-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Cập nhật form nhận bệnh Excel: lấy chính xác mã xã dmxa4750.id khi tự động tra cứu từ địa chỉ
+- 🐛: Khắc phục lỗi lấy nhầm mã xã 5 số khiến kiểm tra danh mục báo không tồn tại
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/902
+![](https://i.vgy.me/Nr4xts.png)
+
 ## [v.3.26.1004.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610040-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610040-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610040-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Cập nhật tiếp đón nhận bệnh bằng Excel: lưu dữ liệu tiêm chủng vào pskhamsuckhoe và tự động tra cứu mã xã từ địa chỉ
 - 🐛: Khắc phục lỗi kiểm tra ràng buộc tiêm chủng/sinh hiệu khi để trống và lỗi lưu mặc định 0 thay vì NULL
