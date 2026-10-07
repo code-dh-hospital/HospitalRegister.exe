@@ -6,6 +6,18 @@
 
 #
 
+## [v.3.26.1008.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610081-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HospitalRegister & HosReg.Code] Tích hợp DLL HosReg.Code mới chứa nút động [Hủy gửi PACS] / [Gửi lại PACS] (btnPacsAction) trên FrmCanLamSang; tự động gửi PACS khi lưu OnSaveOrder và tự động Hủy PACS khi xóa chỉ định.
+- 🐛: [HospitalRegister & HosReg.Code] Tránh trùng lặp gửi PACS khi lưu lại chỉ định đã có idpacs; đồng bộ cập nhật CSDL an toàn.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-46979 (hdhiswork/DUAN#38)
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-46703 (hdhiswork/DUAN#38)
+- 📗: Cập nhật và làm sạch cột idpacs trong bảng current.chidinhcls khi thực hiện hủy gửi hoặc gửi lại PACS.
+- 📕: Thực hiện theo mô tả [Triển khai cơ chế tự động gửi chỉ định CĐHA sang PACS khi lưu phiếu OnSaveOrder đa phân hệ và chức năng Hủy/Gửi lại PACS](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/DH-PACS/Mo-ta-tu-dong-gui-chi-dinh-pacs-onsaveorder-da-phan-he.md)
+  - EXE HospitalRegister nạp thư viện HosReg.Code, DH.PublicCLS điều phối gửi PACS ngầm.
+  - Ảnh GIF động kiểm chứng OnSaveOrder: https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-38/pacs-prescription-flow.gif
+  - Ảnh GIF động kiểm chứng Hủy/Gửi lại/Xóa CLS: https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-38/pacs-cancel-resend-flow.gif
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-34/debug-image-libraryapp-frmhome-tieude-12phanhe.png)
+
 ## [v.3.26.1008.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610080-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610080-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610080-NasDHSolutions.json)</sup></sup></sub>
 
 - ✨: [HospitalRegister & HosReg.Code] Tích hợp DLL HosReg.Code mới chứa nút động [Hủy gửi PACS] / [Gửi lại PACS] (btnPacsAction) trên FrmCanLamSang; tự động gửi PACS khi lưu OnSaveOrder và tự động Hủy PACS khi xóa chỉ định.
