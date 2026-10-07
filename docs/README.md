@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.1007.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610070-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Register & HosReg.Code] Tích hợp cơ chế tự động gửi chỉ định CĐHA sang máy chủ PACS ở chế độ `OnSaveOrder` trên form chỉ định tiếp nhận `HosReg.Code.Forms.FrmCanLamSang` thông qua `DH.PublicCLS.Pacs.Services.PacsDispatcherHelper`.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-46703 (hdhiswork/DUAN#38)
+- 📗: Tự động cập nhật cột `idpacs` trong bảng `current.chidinhcls` và lưu vết giao tiếp vào `current.pacs_message_log` (`action_type = 'CREATE_ORDER'`).
+- 📕: Đồng bộ luồng gửi PACS nền không chặn giao diện (non-blocking background thread) cho phân hệ tiếp nhận khi nhân viên lưu chỉ định hoặc xóa chỉ định CLS.
+- Thực hiện theo mô tả [Triển khai cơ chế tự động gửi chỉ định CĐHA sang PACS khi lưu phiếu (OnSaveOrder) đa phân hệ](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/DH-PACS/Mo-ta-tu-dong-gui-chi-dinh-pacs-onsaveorder-da-phan-he.md)
+
 ## [v.3.26.1006.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610062-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610062-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610062-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung tiếp nhận và truyền ngày đủ 5 năm liên tục khi kiểm tra thông tuyến BHYT tại các nút Kiểm tra thông tuyến trên phân hệ Tiếp nhận (Register) qua HosReg.Plus
 - 🐛: Khắc phục lỗi khi gọi hàm setCheckMaThe kiểm tra thông tuyến trên màn hình Hiệu chỉnh thông tin bệnh nhân (FrmHieuChinhBN), đảm bảo bệnh nhân đã có ngày 5 năm trên hệ thống khớp đúng ngày 5 năm, không bị cảnh báo sai lệch thẻ hoặc hiện popup hỏi cập nhật ngày 5 năm
