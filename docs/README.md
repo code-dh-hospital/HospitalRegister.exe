@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1007.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610071-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610071-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610071-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Tích hợp chuẩn hóa giao diện bản quyền DH.HIS Register (Đăng ký khám) khi kích hoạt DHHIS_BANQUYEN
+- 🐛: Đồng bộ nhận diện thương hiệu DH.HIS, thanh trạng thái 4 ô logoDH và tiêu đề Form Home
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/34#issuecomment-47093 (hdhiswork/DUAN#34)
+- 📗: Không thay đổi CSDL
+- 📕: Chuẩn hóa nhận diện thương hiệu DH.HIS theo biến môi trường DHHIS_BANQUYEN = 1
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-34/debug-image-libraryapp-statusbar-thanhtrangthai-dhhis.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-34/debug-image-libraryapp-frmhome-tieude-12phanhe.png)
+
 ## [v.3.26.1007.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610070-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610070-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610070-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Register & HosReg.Code] Tích hợp cơ chế tự động gửi chỉ định CĐHA sang máy chủ PACS ở chế độ `OnSaveOrder` trên form chỉ định tiếp nhận `HosReg.Code.Forms.FrmCanLamSang` thông qua `DH.PublicCLS.Pacs.Services.PacsDispatcherHelper`.
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-46703 (hdhiswork/DUAN#38)
