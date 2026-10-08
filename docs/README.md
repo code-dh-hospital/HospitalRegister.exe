@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.1008.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610082-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610082-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610082-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung mã CSKCB 79426 - Viện Y Dược Học Dân Tộc (TP HCM) vào danh sách đơn vị theo hợp đồng MaBVBH_ByHopDong
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/953
+- 📕: Cấp key bản quyền HIS cho Viện Y Dược Học Dân Tộc sử dụng phân hệ theo hợp đồng
+
 ## [v.3.26.1008.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610081-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610081-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610081-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [HospitalRegister & HosReg.Code] Tích hợp DLL HosReg.Code mới chứa nút động [Hủy gửi PACS] / [Gửi lại PACS] (btnPacsAction) trên FrmCanLamSang; tự động gửi PACS khi lưu OnSaveOrder và tự động Hủy PACS khi xóa chỉ định.
 - 🐛: [HospitalRegister & HosReg.Code] Tránh trùng lặp gửi PACS khi lưu lại chỉ định đã có idpacs; đồng bộ cập nhật CSDL an toàn.
