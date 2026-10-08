@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.1008.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610084-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610084-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610084-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Chuẩn hóa nhận diện thương hiệu DH.HIS và tương thích hiển thị phiên bản trên thanh trạng thái
+- 🐛: Sửa lỗi System.FormatException khi parse phiên bản phần mềm trong FrmMain.dangNhap() và tmrTime_Tick()
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/34
+- 📗: Không thay đổi CSDL
+- 📕: Quản lý tiếp đón bệnh nhân và đăng nhập phân hệ Register
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-34/debug-image-register-frmmain-home.png)
+
 ## [v.3.26.1008.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610083-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610083-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610083-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung thông tin khoa và phòng chỉ định cho bản tin HL7 OMI^O23 gửi sang PACS từ module Register
 - 🐛: Khắc phục lỗi thiếu thông tin phòng và khoa tiếp nhận trong phân đoạn PV1 và ORC khi gửi PACS từ form tiếp nhận
