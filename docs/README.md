@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.1008.3]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610083-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610083-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610083-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Bổ sung thông tin khoa và phòng chỉ định cho bản tin HL7 OMI^O23 gửi sang PACS từ module Register
+- 🐛: Khắc phục lỗi thiếu thông tin phòng và khoa tiếp nhận trong phân đoạn PV1 và ORC khi gửi PACS từ form tiếp nhận
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-47554 (hdhiswork/DUAN#38)
+- 📗: Làm giàu dữ liệu phòng khám và đơn vị tiếp nhận từ dmphong và dmdonvi
+- 📕: Tự động trích xuất mã phòng, mã khoa từ thông tin bệnh nhân tiếp nhận htCLS khi lưu hoặc gửi lại chỉ định PACS
+
 ## [v.3.26.1008.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610082-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610082-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610082-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Bổ sung mã CSKCB 79426 - Viện Y Dược Học Dân Tộc (TP HCM) vào danh sách đơn vị theo hợp đồng MaBVBH_ByHopDong
 - ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/953
