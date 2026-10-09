@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.1009.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610090-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ thư viện PACS mới nhất với các overload tương thích ngược đa phân hệ
+- 🐛: Khắc phục lỗi MissingMethodException khi bấm Lưu chỉ định cận lâm sàng tiếp nhận gửi PACS
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38
+- 📗: Không thay đổi CSDL
+- 📕: Phân hệ tiếp nhận bệnh nhân tương thích hoàn toàn dịch vụ PACS
+
 ## [v.3.26.1008.4]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610084-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610084-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610084-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Chuẩn hóa nhận diện thương hiệu DH.HIS và tương thích hiển thị phiên bản trên thanh trạng thái
 - 🐛: Sửa lỗi System.FormatException khi parse phiên bản phần mềm trong FrmMain.dangNhap() và tmrTime_Tick()
