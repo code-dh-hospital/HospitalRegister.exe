@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.1012.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610122-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610122-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610122-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: [Register & HosReg.DataAccess] Sửa lỗi mất và nhảy mới mã idpacs của cận lâm sàng CĐHA cũ khi thêm CLS mới rồi nhấn [Lưu] trên phân hệ Tiếp nhận ngoại trú (FrmCanLamSang) bằng cách bổ sung cột idpacs vào base.arrField và kế thừa chính xác idpacs_cu khi delete & insert lại dòng cũ trong ChiDinhCLSAdapter.Insert.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-48278 (hdhiswork/DUAN#38)
+- 📗: current.chidinhcls (bảo toàn cột idpacs khi cập nhật/chèn lại chỉ định CLS ngoại trú)
+- 📕: Phân hệ Tiếp nhận ngoại trú: Khi bệnh nhân đã có chỉ định CLS CĐHA trước đó (đã gửi PACS và có mã idpacs), người dùng vào thêm chỉ định CLS khác rồi nhấn [Lưu], hệ thống bảo toàn 100% mã Accession Number (idpacs) của các dịch vụ đã chỉ định trước đó, chỉ cấp mới idpacs cho dịch vụ mới thêm.
+
 ## [v.3.26.1012.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610121-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610121-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610121-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Tiếp nhận ngoại trú: Đồng bộ trường OBR-5 trong bản tin HL7 gửi PACS hiển thị đúng trạng thái cấp cứu Y (Cấp cứu) và N (Thường) từ thông tin chỉ định CLS tiếp nhận.
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-48154 (hdhiswork/DUAN#38)
