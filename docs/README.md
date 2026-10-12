@@ -6,6 +6,11 @@
 
 #
 
+## [v.3.26.1012.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610120-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610120-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610120-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: Tiếp nhận ngoại trú: Đồng bộ bản tin HL7 gửi PACS hiển thị đúng giới tính PID-8 (M/F) và tên dịch vụ OBR-4.2 không có tiền tố số thứ tự.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-48154 (hdhiswork/DUAN#38)
+- 📕: Tự động gửi OBR-4.2 và PID-8 chuẩn xác khi lưu chỉ định cận lâm sàng từ Tiếp nhận ngoại trú.
+
 ## [v.3.26.1009.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610092-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610092-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610092-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: Tiếp nhận ngoại trú: Sửa lỗi trường OBR-4.2 trong bản tin HL7 OMI^O23 gửi sang PACS hiển thị tên dịch vụ chỉ định cận lâm sàng thay vì tên khoa/đơn vị.
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-47973 (hdhiswork/DUAN#38)
