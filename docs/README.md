@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.1013.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610130-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610130-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610130-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Danh sách bệnh nhân đăng ký → Phiếu nghỉ ốm: bệnh nhân đã in phiếu thanh toán vẫn được Chỉnh phiếu nghỉ ốm, chỉ mở các thông tin không liên quan thanh toán BHYT (Người đại diện, Bác sĩ, Họ tên cha, Họ tên mẹ, Mẫu số); các ô thuộc XML11 thanh toán giữ khóa, Xóa vẫn chặn; chỉ khi chỉnh phiếu đã in phiếu thanh toán mới ghi nhật ký riêng (cũ -> mới) và nhắc In - ký số lại.
+- 🐛: Bỏ khóa nút Chỉnh phiếu nghỉ ốm theo CheckDain6556 (psdangky.dain = 1) khi phiếu đã có số phiếu.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/959
+- 📗: Cập nhật DLL liên quan: HosReg.Code (Forms/FrmNghiOm.cs). Thực hiện theo mô tả [Cho phép chỉnh phiếu nghỉ ốm sau khi in phiếu thanh toán](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/REGISTER/Mo-ta-Cho-phep-chinh-phieu-nghi-om-sau-in-phieu-thanh-toan.md)
+- 📕: Không dùng tham số, không thay đổi CSDL; không sửa code Register.
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-959/debug-image-register-frmnghiom-chinh-sau-in-phieu-thanh-toan.png)
+
 ## [v.3.26.1012.2]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610122-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610122-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610122-NasDHSolutions.json)</sup></sup></sub>
 - 🐛: [Register & HosReg.DataAccess] Sửa lỗi mất và nhảy mới mã idpacs của cận lâm sàng CĐHA cũ khi thêm CLS mới rồi nhấn [Lưu] trên phân hệ Tiếp nhận ngoại trú (FrmCanLamSang) bằng cách bổ sung cột idpacs vào base.arrField và kế thừa chính xác idpacs_cu khi delete & insert lại dòng cũ trong ChiDinhCLSAdapter.Insert.
 - ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38
