@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1014.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610141-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610141-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610141-NasDHSolutions.json)</sup></sup></sub>
+- 🐛: [Register & HosReg.DataAccess] Sửa lỗi mất và nhảy mới mã idpacs của cận lâm sàng CĐHA cũ khi thêm CLS mới rồi nhấn [Lưu] trên phân hệ Tiếp nhận ngoại trú (FrmCanLamSang) bằng cách bổ sung cột idpacs vào base.arrField và kế thừa chính xác idpacs_cu khi delete & insert lại dòng cũ trong ChiDinhCLSAdapter.Insert.
+- ✨: [Register & DH.PublicCLS] Đồng bộ thư viện DH.PublicCLS cập nhật phân đoạn OBR-47.1 gửi sang máy chủ PACS ECO phân định dịch vụ hưởng BHYT (1) vs dịch vụ viện phí (0) căn cứ đồng thời current.dmdoituong.bhyt IN (1, 2) và current.chidinhcls.bhyt = 1.
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-48278 (hdhiswork/DUAN#38)
+- ☑: https://i.dh-his.com/hdhiswork/DUAN/issues/38#issuecomment-48788 (hdhiswork/DUAN#38)
+- 📗: current.dmdoituong, current.chidinhcls (bảo toàn cột idpacs và kiểm tra đối tượng BHYT khi gửi bản tin HL7 OMI^O23).
+- 📕: Thực hiện theo mô tả [Tự động gửi chỉ định PACS OnSaveOrder đa phân hệ](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/DH-PACS/Mo-ta-tu-dong-gui-chi-dinh-pacs-onsaveorder-da-phan-he.md)
+
 ## [v.3.26.1014.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610140-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610140-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32610140-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Register & DH.PublicCLS] Bổ sung 2 trường dữ liệu định danh PV1-19 (AdmissionCode = makb) và OBR-19 (ParaClinReqCode = iddienbien hoặc makb.madv.maphong) vào bản tin HL7 OMI^O23 gửi máy chủ PACS ECO, chuẩn hóa đồng bộ 3 bên HIS - PACS - EMR.
 - 🐛: Khắc phục sự cố PACS trả kết quả sang EMR bị thiếu thông tin định danh lượt khám (AdmissionCode) và mã đợt diễn biến chỉ định (ParaClinReqCode), đảm bảo EMR nhận diện và gắn kết quả CĐHA chính xác vào hồ sơ bệnh án.
