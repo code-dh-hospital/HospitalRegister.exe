@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1109.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611090-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611090-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611090-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Sổ phẫu thuật / Sổ thủ thuật hiển thị và xuất thêm Ngày/giờ chỉ định, Ngày/giờ kết thúc (dùng DH.ReportCLS 3.26.1106.0, DH.DALCLS 3.26.1106.1 trở lên) - đồng bộ với Reports.
+- 🐛: Register chưa thấy cột Ngày/giờ chỉ định, Ngày/giờ kết thúc trên Sổ phẫu thuật / Sổ thủ thuật do bản phát hành trước còn kèm DH.ReportCLS / DH.DALCLS cũ (YEUCAU #1002 comment #52199).
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/1002#issuecomment-52199 (hdhiswork/YEUCAU#1002)
+- 📗: Không sửa code Register: menu Sổ phẫu thuật / Sổ thủ thuật đã mở DH.ReportCLS.BaoCao.PT_TT.FrmSoPhauThuat_ThuThuat; phát hành lại để kèm DLL mới. Thực hiện theo mô tả [Mô tả yêu cầu 1002 - Sổ thủ thuật / phẫu thuật ngày chỉ định, ngày kết thúc](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CAN_LAM_SANG/Mo-ta-yeu-cau-1002-so-thu-thuat-phau-thuat-ngay-chi-dinh-thuc-hien.md)
+- 📕: Không phát sinh cột mới (ngày chỉ định: COALESCE(chidinhcls.ngaykcb, chidinhcls.ngaycd); kết thúc: phauthuat.ngaygiokt). Thao tác: Register: Báo cáo -> Sổ phẫu thuật / Sổ thủ thuật (HosReg.Code FrmMain) -> chọn khoảng thời gian -> Xem.
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1002/debug-image-register-prescription-frmsophauthuatthuthuat-so-phau-thuat.png)
+![](https://nnotmymmhysawugaoegv.supabase.co/storage/v1/object/public/image-debug/issues/issue-1002/debug-image-register-prescription-frmsophauthuatthuthuat-so-thu-thuat.png)
+
 ## [v.3.26.1105.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611050-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611050-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611050-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Cập nhật DLL HosReg.Code (bản phát hành lại) - bắt buộc Số điện thoại + CCCD khi tiếp nhận KSK hợp đồng (Đăng ký KSK HĐ, Nhận bệnh bằng file Excel).
 - 🐛: Khắc phục bản 3.26.1104.0 chưa chặn hồ sơ KSK HĐ thiếu CCCD / SĐT do gói phát hành vẫn kèm HosReg.Code.dll cũ.
