@@ -6,6 +6,17 @@
 
 #
 
+## [v.3.26.1111.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611111-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Cập nhật DLL liên quan HosReg.Code: Bổ sung menu 'In - ký số', phím tắt F2 và hàm KySoPhieuChiDinhClsHelper ký số EMR trên FrmCanLamSang; chuẩn hóa sMaBacSi lấy đúng manv của tài khoản FrmMain.strUserName thay vì lấy tên tài khoản; loại bỏ LayPdfDaKy ở client; mở rộng tham số cks.chidinhcls = 2 tự động ký số ngay khi Lưu.
+- 🐛: Đồng bộ tính năng menu In - ký số và tự động ký số chỉ định CLS cho phân hệ Tiếp nhận / Đăng ký khám giống như Prescription.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/990
+- 📗: Cập nhật tham số cks.chidinhcls (bổ sung giá trị 2). Mô tả: [Mo-ta-YEUCAU-Issue-990-Tu-Dong-Ky-So-Chi-Dinh-CLS.md](../../Mo-ta-he-thong/Chu-ky-so/Mo-ta-YEUCAU-Issue-990-Tu-Dong-Ky-So-Chi-Dinh-CLS.md)
+- 📕: Không sửa code C# Register; cập nhật DLL HosReg.Code. Thao tác: Tiếp nhận -> Chỉ định CLS -> nút In có menu 'In - ký số' (hoặc F2) / cks.chidinhcls = 2 -> Lưu -> tự động kích hoạt ký số EMR.
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-990/debug-image-register-frmcanlamsang-tudongkyso.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-990/debug-image-register-hospitalregister-fullflow.png)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-990/debug-image-admin-thamso-cks-chidinhcls-giatri-2.jpg)
+![](https://qbsuhafypjhbdmwkygfy.supabase.co/storage/v1/object/public/nguyenvietvinh/issues/issue-990/debug-image-register-frmcanlamsang-bam-luu-tu-dong-ky-so.jpg)
+
 ## [v.3.26.1111.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611110-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611110-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611110-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Cập nhật DLL liên quan HosReg.Code: Bổ sung menu 'In - ký số', phím tắt F2 và hàm KySoPhieuChiDinhClsHelper ký số EMR trên FrmCanLamSang; loại bỏ LayPdfDaKy ở client; mở rộng tham số cks.chidinhcls = 2 tự động ký số ngay khi Lưu.
 - 🐛: Đồng bộ tính năng menu In - ký số và tự động ký số chỉ định CLS cho phân hệ Tiếp nhận / Đăng ký khám giống như Prescription.
