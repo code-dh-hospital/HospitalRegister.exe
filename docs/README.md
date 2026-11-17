@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1117.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611170-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [HosReg.Code / HosReg.DataAccess] Tự động check và lock chkBHYeuCau ("Khám dịch vụ") khi đối tượng hoặc phòng khám có cấu hình dịch vụ trên FrmDangKyBH.
+- 🐛: Đảm bảo áp đúng đơn giá công khám dịch vụ giadv, chống sai sót hoặc quên tick khám dịch vụ khi tiếp đón.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/1008
+- 📗: Đồng bộ trường khamdichvu từ current.dmdoituong vào psdangky.khamdv.
+- 📕: Mở phân hệ Tiếp đón Register -> Đăng ký bệnh nhân -> Chọn đối tượng khám dịch vụ -> Kiểm tra ô "Khám dịch vụ" tự động tick và khóa.
+- Thực hiện theo mô tả [TỰ ĐỘNG CHECK "KHÁM DỊCH VỤ" THEO CẤU HÌNH DANH MỤC ĐỐI TƯỢNG (YEUCAU #1008)](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/REGISTER/Mo-ta-Register-Prescription-tu-dong-check-kham-dich-vu-dm-doi-tuong-yeucau-1008.md)
+![Giao diện tiếp nhận tự động check và khóa Khám dịch vụ](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/HIS_BUCKET/issues/issue-1008/debug-image-register-frmdangkybh-tudong-check-khamdichvu.png)
+
 ## [v.3.26.1111.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611111-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611111-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611111-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Cập nhật DLL liên quan HosReg.Code: Bổ sung menu 'In - ký số', phím tắt F2 và hàm KySoPhieuChiDinhClsHelper ký số EMR trên FrmCanLamSang; chuẩn hóa sMaBacSi lấy đúng manv của tài khoản FrmMain.strUserName thay vì lấy tên tài khoản; loại bỏ LayPdfDaKy ở client; mở rộng tham số cks.chidinhcls = 2 tự động ký số ngay khi Lưu.
 - 🐛: Đồng bộ tính năng menu In - ký số và tự động ký số chỉ định CLS cho phân hệ Tiếp nhận / Đăng ký khám giống như Prescription.
