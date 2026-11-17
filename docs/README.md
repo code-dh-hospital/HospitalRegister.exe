@@ -6,6 +6,13 @@
 
 #
 
+## [v.3.26.1117.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611171-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [Register & DH.PublicCLS] Đồng bộ thư viện DH.PublicCLS.dll (v.3.26.1117.0) cập nhật chuẩn hóa chuỗi chẩn đoán ICD và bản tin HL7 OMI^O23 gửi máy chủ PACS ECO.
+- 🐛: [Register] Đảm bảo mã ICD chính đi liền ngay sau tên chẩn đoán chính theo định dạng "Chính (ICD chính) ; Phụ (ICD phụ)" khi FrmCanLamSang thực hiện gửi PACS tự động lúc Lưu (LOI #1096).
+- ☑: https://i.dh-his.com/hdhiswork/LOI/issues/1096
+- 📗: Không thay đổi CSDL; dữ liệu đọc từ current.psdangky và current.chidinhcls.
+- 📕: Phân hệ Tiếp đón / Đăng ký khám (Register) đóng gói kèm DH.PublicCLS.dll mới nhất, tự động gửi bản tin chuẩn sang hệ thống PACS.
+
 ## [v.3.26.1117.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611170-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611170-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611170-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [HosReg.Code / HosReg.DataAccess] Tự động check và lock chkBHYeuCau ("Khám dịch vụ") khi đối tượng hoặc phòng khám có cấu hình dịch vụ trên FrmDangKyBH.
 - 🐛: Đảm bảo áp đúng đơn giá công khám dịch vụ giadv, chống sai sót hoặc quên tick khám dịch vụ khi tiếp đón.
