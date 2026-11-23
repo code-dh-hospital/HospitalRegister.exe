@@ -6,6 +6,14 @@
 
 #
 
+## [v.3.26.1123.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611230-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Chuẩn hóa nhãn nút chức năng trên Form Tiếp nhận (FrmDangKyBH) từ "Chỉ định C&LS tự do" thành "Chỉ định &DVKT tự do". Tự động check Khám dịch vụ tại Tiếp nhận khi đối tượng có khamdichvu >= 1.
+- ✨: Tự động đánh dấu tick Dịch vụ và lấy Đơn giá dịch vụ khi nhân viên Tiếp nhận mở form Chỉ định DVKT tự do (FrmCanLamSang) cho bệnh nhân có đối tượng cấu hình khamdichvu = 2 (Khám dịch vụ & chỉ định CLS DV), người dùng vẫn có thể bỏ tick dịch vụ khi cần thiết.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/1032
+- 📗: Không thay đổi cấu trúc bảng CSDL; đồng bộ xử lý khamdichvu từ bảng dmdoituong cho FrmDangKyBH và FrmDangKyKSK.
+- 📕: Thực hiện theo mô tả [MỞ RỘNG CẤU HÌNH DANH MỤC ĐỐI TƯỢNG VÀ TỰ ĐỘNG CHECK DỊCH VỤ CẬN LÂM SÀNG KHI CHỈ ĐỊNH](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/CAN_LAM_SANG/Mo-ta-Prescription-Register-tu-dong-check-dich-vu-khi-chi-dinh-cls-yeucau-1032.md)
+![](https://lqqnqxgltxypjldfawom.supabase.co/storage/v1/object/public/FOR_HIS_BUCKET/issues/issue-1032/debug-image-register-frmdangkybh-frmcanlamsang-chuyencls-dv.png)
+
 ## [v.3.26.1117.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611171-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611171-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611171-NasDHSolutions.json)</sup></sup></sub>
 - ✨: [Register & DH.PublicCLS] Đồng bộ thư viện DH.PublicCLS.dll (v.3.26.1117.0) cập nhật chuẩn hóa chuỗi chẩn đoán ICD và bản tin HL7 OMI^O23 gửi máy chủ PACS ECO.
 - 🐛: [Register] Đảm bảo mã ICD chính đi liền ngay sau tên chẩn đoán chính theo định dạng "Chính (ICD chính) ; Phụ (ICD phụ)" khi FrmCanLamSang thực hiện gửi PACS tự động lúc Lưu (LOI #1096).
