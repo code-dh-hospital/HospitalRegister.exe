@@ -6,6 +6,15 @@
 
 #
 
+## [v.3.26.1124.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611240-NasDHSolutions.json)</sup></sup></sub>
+- ✨: Đồng bộ cơ chế gửi chỉ định sang PACS tự động và bảo tồn mã IDPACS khi tiếp đón, chỉ định dịch vụ tại phòng khám / tiếp nhận
+- 🐛: Khắc phục lỗi lấy nhầm tên bác sĩ đăng nhập máy trạm khi gửi PACS (ORC-12) và lỗi nuốt exception không lưu được idpacs vào chidinhcls
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/1052 , https://i.dh-his.com/hdhiswork/LOI/issues/1103
+- 📗: current.chidinhcls (idpacs character varying(50)), current.dmnhanvien
+- 📕: Tiếp đón, đăng ký khám bệnh và chỉ định cận lâm sàng ngoại trú đồng bộ với hệ thống PACS
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1052/debug-image-publiccls-pacsdispatcher-bac-si-va-idpacs.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1052/debug-image-prescription-frmchidinhcls-fullflow-integration.png)
+
 ## [v.3.26.1123.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611230-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611230-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611230-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Chuẩn hóa nhãn nút chức năng trên Form Tiếp nhận (FrmDangKyBH) từ "Chỉ định C&LS tự do" thành "Chỉ định &DVKT tự do". Tự động check Khám dịch vụ tại Tiếp nhận khi đối tượng có khamdichvu >= 1.
 - ✨: Tự động đánh dấu tick Dịch vụ và lấy Đơn giá dịch vụ khi nhân viên Tiếp nhận mở form Chỉ định DVKT tự do (FrmCanLamSang) cho bệnh nhân có đối tượng cấu hình khamdichvu = 2 (Khám dịch vụ & chỉ định CLS DV), người dùng vẫn có thể bỏ tick dịch vụ khi cần thiết.
