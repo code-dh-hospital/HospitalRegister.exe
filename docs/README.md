@@ -6,6 +6,16 @@
 
 #
 
+## [v.3.26.1124.1]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611241-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611241-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611241-NasDHSolutions.json)</sup></sup></sub>
+# NHẬT KÝ MÃ NGUỒN - Register
+### Ngày: 24/11/2026
+- ✨: Đồng bộ thư viện DH.PublicCLS (v.3.26.1124.1): chuẩn hóa định dạng bác sĩ chỉ định ORC-12 (|[mabs]^[hoten_bacsi]|) khi tiếp nhận và chỉ định dịch vụ cận lâm sàng gửi sang máy chủ PACS.
+- 🐛: Khắc phục triệt để lỗi lặp mã bác sĩ trong chuỗi HL7 ORC-12 tại phân hệ Tiếp nhận và đảm bảo bảo tồn IDPACS trong CSDL current.chidinhcls.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/1052 , https://i.dh-his.com/hdhiswork/LOI/issues/1103
+- 📗: current.chidinhcls (idpacs character varying(50)), current.dmnhanvien.
+- 📕: Mở phân hệ Tiếp nhận (Register) -> Đăng ký bệnh nhân -> Chỉ định CĐHA tự do -> Bấm Lưu / Gửi PACS bản tin ORC-12 hiển thị chuẩn xác mã và họ tên bác sĩ.
+![Minh chứng kiểm thử](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1052/debug-image-publiccls-pacsdispatcher-bac-si-va-idpacs.png)
+
 ## [v.3.26.1124.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611240-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611240-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611240-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ cơ chế gửi chỉ định sang PACS tự động và bảo tồn mã IDPACS khi tiếp đón, chỉ định dịch vụ tại phòng khám / tiếp nhận
 - 🐛: Khắc phục lỗi lấy nhầm tên bác sĩ đăng nhập máy trạm khi gửi PACS (ORC-12) và lỗi nuốt exception không lưu được idpacs vào chidinhcls
