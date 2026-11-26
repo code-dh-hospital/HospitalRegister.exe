@@ -6,6 +6,19 @@
 
 #
 
+## [v.3.26.1126.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611260-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611260-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611260-NasDHSolutions.json)</sup></sup></sub>
+- ✨: [DH.PublicCLS] Đồng bộ thư viện `DH.PublicCLS` mới nhất chuẩn hóa tích hợp PACS VIETRAD (JSON thuần Mục 3.3.1–3.3.6 & đối tác [#55194](https://i.dh-his.com/hdhiswork/YEUCAU/issues/1058#issuecomment-55194 (hdhiswork/YEUCAU#1058))) trên 1 luồng điều phối chung với `ECO_HL7`: chuẩn hóa Order/Cancel JSON (`orderDate`, `priority`, `healthInsurance`, `status = 'NEW'/'CANCELLED'`, `orders[0].id = orderNumber` khớp `{serviceID}`), tùy chọn `WrapPatientInUpdateRequest`, `SecretKeyHeaderName`, `CustomHeaders`, parse Array/Object lỗi và bổ sung `EnrichBhytDates` (`current.bnnoitru` / `current.psdangky`).
+- 🐛: [DH.PublicCLS] Khắc phục sai lệch payload JSON gửi/hủy chỉ định PACS Vietrad, lỗi đọc `data.error` dạng mảng/chuỗi và rollback `idpacs` an toàn khi đối tác từ chối, giữ tương thích ngược 100% với `ECO_HL7`.
+- ☑: https://i.dh-his.com/hdhiswork/YEUCAU/issues/1058
+- ☑: https://i.dh-his.com/code-dh-hospital/dh-hos-code-only/issues/355
+- 📗: Đọc hạn thẻ BHYT từ `current.bnnoitru` / `current.psdangky`, cấu hình `current.coderun` (`EOptionPACS`), cập nhật/rollback `current.chidinhcls.idpacs` (`varchar(50)`). Không sửa hàm `badt_dhs.insertdiagnose`.
+- 📕: Trên phân hệ Tiếp nhận / Chỉ định CLS (`Register`), khi chỉ định hoặc hủy dịch vụ PACS cấu hình `VIETRAD_JSON`, hệ thống đồng bộ gửi/hủy qua `DH.PublicCLS` thống nhất trên 1 luồng chung với `ECO_HL7`.
+- Tài liệu mô tả: [Tích hợp PACS VIETRAD (JSON thuần) và InsertDiagnose - Issue #1058](https://github.com/dhhiswork/Mo-ta-he-thong/blob/main/DH-PACS/Mo-ta-Tich-hop-PACS-VIETRAD-JSON-va-InsertDiagnose-issue-1058.md)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1058/debug-image-publiccls-vietradjson-send-cancel-viewer.png)
+![](https://xgtqkapnwmjscfabjeod.supabase.co/storage/v1/object/public/votranh415/issues/issue-1058/debug-image-diagnose-vietradjson-fullflow.png)
+![](https://images-worker.tlt15.workers.dev/i/01a2169b-9319-73e0-82ce-58431ecd581a)
+![](https://images-worker.tlt49.workers.dev/i/01a2169b-5e8a-75c7-a427-af67d337bc37)
+
 ## [v.3.26.1125.0]() <sub><sup><sup>[⬇️OneDrive](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611250-OneDrive.json) [⬇️GoogleStorage](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611250-GoogleStorage.json) [⬇️NasDHSolutions](https://code-dh-hospital.github.io/directTo/?&redirect_url=https%3A%2F%2Fo-dh-007-default-rtdb.asia-southeast1.firebasedatabase.app%2FdirectTo%2FHospitalRegisterexe%2F32611250-NasDHSolutions.json)</sup></sup></sub>
 - ✨: Đồng bộ thư viện `DH.PublicCLS` mới nhất: chuẩn hóa cô lập `idpacs` theo từng dòng dịch vụ và thống nhất cấu trúc HL7 `OBR-2` dạng `|[idpacs]^[idpacs]|` khi gửi chỉ định CĐHA sang PACS.
 - 🐛: Khắc phục triệt để lỗi cập nhật đè `idpacs` giữa các CLS cùng đợt chỉ định (`idchidinh`) và đồng bộ chuẩn định dạng `OBR-2`, `ORC-12` trên phân hệ Tiếp nhận (`Register`).
